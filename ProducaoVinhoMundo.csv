@@ -1,0 +1,2058 @@
+﻿Continent,Region/Country,Product,Variable,Year,Unit,Quantity
+Asia,Afghanistan,Wine,Production,2010,1000 hl,0
+Asia,Afghanistan,Wine,Production,2011,1000 hl,0
+Asia,Afghanistan,Wine,Production,2012,1000 hl,0
+Asia,Afghanistan,Wine,Production,2013,1000 hl,0
+Asia,Afghanistan,Wine,Production,2014,1000 hl,0
+Asia,Afghanistan,Wine,Production,2015,1000 hl,0
+Asia,Afghanistan,Wine,Production,2016,1000 hl,0
+Asia,Afghanistan,Wine,Production,2017,1000 hl,0
+Asia,Afghanistan,Wine,Production,2018,1000 hl,0
+Asia,Afghanistan,Wine,Production,2019,1000 hl,0
+Asia,Afghanistan,Wine,Production,2020,1000 hl,0
+Asia,Afghanistan,Wine,Production,2021,1000 hl,0
+Asia,Afghanistan,Wine,Production,2022,1000 hl,0
+Europe,Albania,Wine,Production,1995,1000 hl,  169
+Europe,Albania,Wine,Production,1996,1000 hl,  293
+Europe,Albania,Wine,Production,1997,1000 hl,  168
+Europe,Albania,Wine,Production,1998,1000 hl,  105
+Europe,Albania,Wine,Production,1999,1000 hl,  127
+Europe,Albania,Wine,Production,2000,1000 hl,  74
+Europe,Albania,Wine,Production,2001,1000 hl,  142
+Europe,Albania,Wine,Production,2002,1000 hl,  66
+Europe,Albania,Wine,Production,2003,1000 hl,  92
+Europe,Albania,Wine,Production,2004,1000 hl,  140
+Europe,Albania,Wine,Production,2005,1000 hl,  171
+Europe,Albania,Wine,Production,2006,1000 hl,  170
+Europe,Albania,Wine,Production,2007,1000 hl,  178
+Europe,Albania,Wine,Production,2008,1000 hl,  161
+Europe,Albania,Wine,Production,2009,1000 hl,  175
+Europe,Albania,Wine,Production,2010,1000 hl,  181
+Europe,Albania,Wine,Production,2011,1000 hl,  180
+Europe,Albania,Wine,Production,2012,1000 hl,  190
+Europe,Albania,Wine,Production,2013,1000 hl,  180
+Europe,Albania,Wine,Production,2014,1000 hl,  175
+Europe,Albania,Wine,Production,2015,1000 hl,  164
+Europe,Albania,Wine,Production,2016,1000 hl,  178
+Europe,Albania,Wine,Production,2017,1000 hl,  169
+Europe,Albania,Wine,Production,2018,1000 hl,  153
+Europe,Albania,Wine,Production,2019,1000 hl,  187
+Europe,Albania,Wine,Production,2020,1000 hl,  192
+Europe,Albania,Wine,Production,2021,1000 hl,  295
+Europe,Albania,Wine,Production,2022,1000 hl,  228
+Africa,Algeria,Wine,Production,1995,1000 hl,  571
+Africa,Algeria,Wine,Production,1996,1000 hl,  392
+Africa,Algeria,Wine,Production,1997,1000 hl,  357
+Africa,Algeria,Wine,Production,1998,1000 hl,  360
+Africa,Algeria,Wine,Production,1999,1000 hl,  422
+Africa,Algeria,Wine,Production,2000,1000 hl,  424
+Africa,Algeria,Wine,Production,2001,1000 hl,  420
+Africa,Algeria,Wine,Production,2002,1000 hl,  700
+Africa,Algeria,Wine,Production,2003,1000 hl,  820
+Africa,Algeria,Wine,Production,2004,1000 hl,  850
+Africa,Algeria,Wine,Production,2005,1000 hl,  900
+Africa,Algeria,Wine,Production,2006,1000 hl, 1 050
+Africa,Algeria,Wine,Production,2007,1000 hl,  520
+Africa,Algeria,Wine,Production,2008,1000 hl,  500
+Africa,Algeria,Wine,Production,2009,1000 hl,  588
+Africa,Algeria,Wine,Production,2010,1000 hl,  475
+Africa,Algeria,Wine,Production,2011,1000 hl,  480
+Africa,Algeria,Wine,Production,2012,1000 hl,  492
+Africa,Algeria,Wine,Production,2013,1000 hl,  498
+Africa,Algeria,Wine,Production,2014,1000 hl,  126
+Africa,Algeria,Wine,Production,2015,1000 hl,  96
+Africa,Algeria,Wine,Production,2016,1000 hl,  66
+Africa,Algeria,Wine,Production,2017,1000 hl,  227
+Africa,Algeria,Wine,Production,2018,1000 hl,  193
+Africa,Algeria,Wine,Production,2019,1000 hl,  193
+Africa,Algeria,Wine,Production,2020,1000 hl,  193
+Africa,Algeria,Wine,Production,2021,1000 hl,  193
+Africa,Algeria,Wine,Production,2022,1000 hl,  193
+America,Argentina,Wine,Production,1995,1000 hl, 16 443
+America,Argentina,Wine,Production,1996,1000 hl, 12 681
+America,Argentina,Wine,Production,1997,1000 hl, 13 500
+America,Argentina,Wine,Production,1998,1000 hl, 12 673
+America,Argentina,Wine,Production,1999,1000 hl, 15 888
+America,Argentina,Wine,Production,2000,1000 hl, 12 537
+America,Argentina,Wine,Production,2001,1000 hl, 15 835
+America,Argentina,Wine,Production,2002,1000 hl, 12 695
+America,Argentina,Wine,Production,2003,1000 hl, 13 225
+America,Argentina,Wine,Production,2004,1000 hl, 15 464
+America,Argentina,Wine,Production,2005,1000 hl, 15 222
+America,Argentina,Wine,Production,2006,1000 hl, 15 396
+America,Argentina,Wine,Production,2007,1000 hl, 15 046
+America,Argentina,Wine,Production,2008,1000 hl, 14 676
+America,Argentina,Wine,Production,2009,1000 hl, 12 135
+America,Argentina,Wine,Production,2010,1000 hl, 16 250
+America,Argentina,Wine,Production,2011,1000 hl, 15 473
+America,Argentina,Wine,Production,2012,1000 hl, 11 778
+America,Argentina,Wine,Production,2013,1000 hl, 14 984
+America,Argentina,Wine,Production,2014,1000 hl, 15 197
+America,Argentina,Wine,Production,2015,1000 hl, 13 362
+America,Argentina,Wine,Production,2016,1000 hl, 9 447
+America,Argentina,Wine,Production,2017,1000 hl, 11 821
+America,Argentina,Wine,Production,2018,1000 hl, 14 522
+America,Argentina,Wine,Production,2019,1000 hl, 13 019
+America,Argentina,Wine,Production,2020,1000 hl, 10 796
+America,Argentina,Wine,Production,2021,1000 hl, 12 482
+America,Argentina,Wine,Production,2022,1000 hl, 11 451
+America,Argentina,Wine,Production,2023,1000 hl, 9 046
+Asia,Armenia,Wine,Production,1995,1000 hl,  104
+Asia,Armenia,Wine,Production,1996,1000 hl,  78
+Asia,Armenia,Wine,Production,1997,1000 hl,  49
+Asia,Armenia,Wine,Production,1998,1000 hl,  24
+Asia,Armenia,Wine,Production,1999,1000 hl,  56
+Asia,Armenia,Wine,Production,2000,1000 hl,  42
+Asia,Armenia,Wine,Production,2001,1000 hl,  70
+Asia,Armenia,Wine,Production,2002,1000 hl,  46
+Asia,Armenia,Wine,Production,2003,1000 hl,  27
+Asia,Armenia,Wine,Production,2004,1000 hl,  68
+Asia,Armenia,Wine,Production,2005,1000 hl,  73
+Asia,Armenia,Wine,Production,2006,1000 hl,  44
+Asia,Armenia,Wine,Production,2007,1000 hl,  42
+Asia,Armenia,Wine,Production,2008,1000 hl,  38
+Asia,Armenia,Wine,Production,2009,1000 hl,  47
+Asia,Armenia,Wine,Production,2010,1000 hl,  59
+Asia,Armenia,Wine,Production,2011,1000 hl,  62
+Asia,Armenia,Wine,Production,2012,1000 hl,  58
+Asia,Armenia,Wine,Production,2013,1000 hl,  64
+Asia,Armenia,Wine,Production,2014,1000 hl,  68
+Asia,Armenia,Wine,Production,2015,1000 hl,  66
+Asia,Armenia,Wine,Production,2016,1000 hl,  68
+Asia,Armenia,Wine,Production,2017,1000 hl,  88
+Asia,Armenia,Wine,Production,2018,1000 hl,  89
+Asia,Armenia,Wine,Production,2019,1000 hl,  127
+Asia,Armenia,Wine,Production,2020,1000 hl,  110
+Asia,Armenia,Wine,Production,2021,1000 hl,  112
+Asia,Armenia,Wine,Production,2022,1000 hl,  122
+Oceania,Australia,Wine,Production,1995,1000 hl, 5 028
+Oceania,Australia,Wine,Production,1996,1000 hl, 6 734
+Oceania,Australia,Wine,Production,1997,1000 hl, 6 174
+Oceania,Australia,Wine,Production,1998,1000 hl, 7 415
+Oceania,Australia,Wine,Production,1999,1000 hl, 8 511
+Oceania,Australia,Wine,Production,2000,1000 hl, 8 064
+Oceania,Australia,Wine,Production,2001,1000 hl, 10 731
+Oceania,Australia,Wine,Production,2002,1000 hl, 12 168
+Oceania,Australia,Wine,Production,2003,1000 hl, 10 835
+Oceania,Australia,Wine,Production,2004,1000 hl, 14 679
+Oceania,Australia,Wine,Production,2005,1000 hl, 14 301
+Oceania,Australia,Wine,Production,2006,1000 hl, 14 263
+Oceania,Australia,Wine,Production,2007,1000 hl, 9 620
+Oceania,Australia,Wine,Production,2008,1000 hl, 12 448
+Oceania,Australia,Wine,Production,2009,1000 hl, 11 784
+Oceania,Australia,Wine,Production,2010,1000 hl, 11 420
+Oceania,Australia,Wine,Production,2011,1000 hl, 11 180
+Oceania,Australia,Wine,Production,2012,1000 hl, 12 259
+Oceania,Australia,Wine,Production,2013,1000 hl, 12 310
+Oceania,Australia,Wine,Production,2014,1000 hl, 11 863
+Oceania,Australia,Wine,Production,2015,1000 hl, 11 912
+Oceania,Australia,Wine,Production,2016,1000 hl, 13 100
+Oceania,Australia,Wine,Production,2017,1000 hl, 13 690
+Oceania,Australia,Wine,Production,2018,1000 hl, 12 740
+Oceania,Australia,Wine,Production,2019,1000 hl, 11 970
+Oceania,Australia,Wine,Production,2020,1000 hl, 10 900
+Oceania,Australia,Wine,Production,2021,1000 hl, 14 820
+Oceania,Australia,Wine,Production,2022,1000 hl, 13 070
+Oceania,Australia,Wine,Production,2023,1000 hl, 11 077
+Europe,Austria,Wine,Production,1995,1000 hl, 2 229
+Europe,Austria,Wine,Production,1996,1000 hl, 2 110
+Europe,Austria,Wine,Production,1997,1000 hl, 1 802
+Europe,Austria,Wine,Production,1998,1000 hl, 2 703
+Europe,Austria,Wine,Production,1999,1000 hl, 2 803
+Europe,Austria,Wine,Production,2000,1000 hl, 2 338
+Europe,Austria,Wine,Production,2001,1000 hl, 2 531
+Europe,Austria,Wine,Production,2002,1000 hl, 2 599
+Europe,Austria,Wine,Production,2003,1000 hl, 2 526
+Europe,Austria,Wine,Production,2004,1000 hl, 2 735
+Europe,Austria,Wine,Production,2005,1000 hl, 2 264
+Europe,Austria,Wine,Production,2006,1000 hl, 2 256
+Europe,Austria,Wine,Production,2007,1000 hl, 2 628
+Europe,Austria,Wine,Production,2008,1000 hl, 2 993
+Europe,Austria,Wine,Production,2009,1000 hl, 2 352
+Europe,Austria,Wine,Production,2010,1000 hl, 1 737
+Europe,Austria,Wine,Production,2011,1000 hl, 2 814
+Europe,Austria,Wine,Production,2012,1000 hl, 2 125
+Europe,Austria,Wine,Production,2013,1000 hl, 2 392
+Europe,Austria,Wine,Production,2014,1000 hl, 1 999
+Europe,Austria,Wine,Production,2015,1000 hl, 2 268
+Europe,Austria,Wine,Production,2016,1000 hl, 1 953
+Europe,Austria,Wine,Production,2017,1000 hl, 2 486
+Europe,Austria,Wine,Production,2018,1000 hl, 2 753
+Europe,Austria,Wine,Production,2019,1000 hl, 2 465
+Europe,Austria,Wine,Production,2020,1000 hl, 2 398
+Europe,Austria,Wine,Production,2021,1000 hl, 2 460
+Europe,Austria,Wine,Production,2022,1000 hl, 2 527
+Asia,Azerbaijan,Wine,Production,1995,1000 hl,  71
+Asia,Azerbaijan,Wine,Production,1996,1000 hl,  29
+Asia,Azerbaijan,Wine,Production,1997,1000 hl,  347
+Asia,Azerbaijan,Wine,Production,1998,1000 hl,  147
+Asia,Azerbaijan,Wine,Production,1999,1000 hl,  47
+Asia,Azerbaijan,Wine,Production,2000,1000 hl,  77
+Asia,Azerbaijan,Wine,Production,2001,1000 hl,  76
+Asia,Azerbaijan,Wine,Production,2002,1000 hl,  57
+Asia,Azerbaijan,Wine,Production,2003,1000 hl,  38
+Asia,Azerbaijan,Wine,Production,2004,1000 hl,  31
+Asia,Azerbaijan,Wine,Production,2005,1000 hl,  44
+Asia,Azerbaijan,Wine,Production,2006,1000 hl,  52
+Asia,Azerbaijan,Wine,Production,2007,1000 hl,  64
+Asia,Azerbaijan,Wine,Production,2008,1000 hl,  82
+Asia,Azerbaijan,Wine,Production,2009,1000 hl,  72
+Asia,Azerbaijan,Wine,Production,2010,1000 hl,  117
+Asia,Azerbaijan,Wine,Production,2011,1000 hl,  76
+Asia,Azerbaijan,Wine,Production,2012,1000 hl,  106
+Asia,Azerbaijan,Wine,Production,2013,1000 hl,  84
+Asia,Azerbaijan,Wine,Production,2014,1000 hl,  100
+Asia,Azerbaijan,Wine,Production,2015,1000 hl,  104
+Asia,Azerbaijan,Wine,Production,2016,1000 hl,  105
+Asia,Azerbaijan,Wine,Production,2017,1000 hl,  113
+Asia,Azerbaijan,Wine,Production,2018,1000 hl,  157
+Asia,Azerbaijan,Wine,Production,2019,1000 hl,  88
+Asia,Azerbaijan,Wine,Production,2020,1000 hl,  90
+Asia,Azerbaijan,Wine,Production,2021,1000 hl,  130
+Europe,Belarus,Wine,Production,1995,1000 hl,  102
+Europe,Belarus,Wine,Production,1996,1000 hl,  187
+Europe,Belarus,Wine,Production,1997,1000 hl,  200
+Europe,Belarus,Wine,Production,1998,1000 hl,  190
+Europe,Belarus,Wine,Production,1999,1000 hl,  70
+Europe,Belarus,Wine,Production,2000,1000 hl,  97
+Europe,Belarus,Wine,Production,2001,1000 hl,  99
+Europe,Belarus,Wine,Production,2002,1000 hl,  75
+Europe,Belarus,Wine,Production,2003,1000 hl,  117
+Europe,Belarus,Wine,Production,2004,1000 hl,  160
+Europe,Belarus,Wine,Production,2005,1000 hl,  165
+Europe,Belarus,Wine,Production,2006,1000 hl,  124
+Europe,Belarus,Wine,Production,2007,1000 hl,  200
+Europe,Belarus,Wine,Production,2008,1000 hl,  257
+Europe,Belarus,Wine,Production,2009,1000 hl,  210
+Europe,Belarus,Wine,Production,2010,1000 hl,  251
+Europe,Belarus,Wine,Production,2011,1000 hl,  268
+Europe,Belarus,Wine,Production,2012,1000 hl,  272
+Europe,Belarus,Wine,Production,2013,1000 hl,  282
+Europe,Belarus,Wine,Production,2014,1000 hl,  300
+Europe,Belarus,Wine,Production,2015,1000 hl,  287
+Europe,Belarus,Wine,Production,2016,1000 hl,  274
+Europe,Belarus,Wine,Production,2017,1000 hl,  310
+Europe,Belarus,Wine,Production,2018,1000 hl,  320
+Europe,Belarus,Wine,Production,2019,1000 hl,  340
+Europe,Belarus,Wine,Production,2020,1000 hl,  304
+Europe,Belarus,Wine,Production,2021,1000 hl,  304
+Europe,Belgium,Wine,Production,1995,1000 hl,  1
+Europe,Belgium,Wine,Production,1996,1000 hl,  1
+Europe,Belgium,Wine,Production,1997,1000 hl,  1
+Europe,Belgium,Wine,Production,1998,1000 hl,  1
+Europe,Belgium,Wine,Production,1999,1000 hl,  2
+Europe,Belgium,Wine,Production,2000,1000 hl,  2
+Europe,Belgium,Wine,Production,2001,1000 hl,  2
+Europe,Belgium,Wine,Production,2002,1000 hl,  2
+Europe,Belgium,Wine,Production,2003,1000 hl,  2
+Europe,Belgium,Wine,Production,2004,1000 hl,  2
+Europe,Belgium,Wine,Production,2005,1000 hl,  1
+Europe,Belgium,Wine,Production,2006,1000 hl,  2
+Europe,Belgium,Wine,Production,2007,1000 hl,  2
+Europe,Belgium,Wine,Production,2008,1000 hl,  6
+Europe,Belgium,Wine,Production,2009,1000 hl,  6
+Europe,Belgium,Wine,Production,2010,1000 hl,  5
+Europe,Belgium,Wine,Production,2011,1000 hl,  5
+Europe,Belgium,Wine,Production,2012,1000 hl,  3
+Europe,Belgium,Wine,Production,2013,1000 hl,  6
+Europe,Belgium,Wine,Production,2014,1000 hl,  7
+Europe,Belgium,Wine,Production,2015,1000 hl,  10
+Europe,Belgium,Wine,Production,2016,1000 hl,  8
+Europe,Belgium,Wine,Production,2017,1000 hl,  9
+Europe,Belgium,Wine,Production,2018,1000 hl,  20
+Europe,Belgium,Wine,Production,2019,1000 hl,  15
+Europe,Belgium,Wine,Production,2020,1000 hl,  18
+Europe,Belgium,Wine,Production,2021,1000 hl,  15
+Europe,Belgium,Wine,Production,2022,1000 hl,  30
+America,Bolivia,Wine,Production,1995,1000 hl,  20
+America,Bolivia,Wine,Production,1996,1000 hl,  20
+America,Bolivia,Wine,Production,1997,1000 hl,  20
+America,Bolivia,Wine,Production,1998,1000 hl,  20
+America,Bolivia,Wine,Production,1999,1000 hl,  20
+America,Bolivia,Wine,Production,2000,1000 hl,  20
+America,Bolivia,Wine,Production,2001,1000 hl,  20
+America,Bolivia,Wine,Production,2002,1000 hl,  20
+America,Bolivia,Wine,Production,2003,1000 hl,  44
+America,Bolivia,Wine,Production,2004,1000 hl,  71
+America,Bolivia,Wine,Production,2005,1000 hl,  72
+America,Bolivia,Wine,Production,2006,1000 hl,  73
+America,Bolivia,Wine,Production,2007,1000 hl,  74
+America,Bolivia,Wine,Production,2008,1000 hl,  77
+America,Bolivia,Wine,Production,2009,1000 hl,  70
+America,Bolivia,Wine,Production,2010,1000 hl,  74
+America,Bolivia,Wine,Production,2011,1000 hl,  74
+America,Bolivia,Wine,Production,2012,1000 hl,  80
+America,Bolivia,Wine,Production,2013,1000 hl,  83
+America,Bolivia,Wine,Production,2014,1000 hl,  55
+America,Bolivia,Wine,Production,2015,1000 hl,  83
+America,Bolivia,Wine,Production,2016,1000 hl,  83
+America,Bolivia,Wine,Production,2017,1000 hl,  84
+America,Bolivia,Wine,Production,2018,1000 hl,  67
+America,Bolivia,Wine,Production,2019,1000 hl,  84
+America,Bolivia,Wine,Production,2020,1000 hl,  84
+America,Bolivia,Wine,Production,2021,1000 hl,  84
+Europe,Bosnia and Herzegovina,Wine,Production,1995,1000 hl,  34
+Europe,Bosnia and Herzegovina,Wine,Production,1996,1000 hl,  47
+Europe,Bosnia and Herzegovina,Wine,Production,1997,1000 hl,  9
+Europe,Bosnia and Herzegovina,Wine,Production,1998,1000 hl,  69
+Europe,Bosnia and Herzegovina,Wine,Production,1999,1000 hl,  58
+Europe,Bosnia and Herzegovina,Wine,Production,2000,1000 hl,  48
+Europe,Bosnia and Herzegovina,Wine,Production,2001,1000 hl,  55
+Europe,Bosnia and Herzegovina,Wine,Production,2002,1000 hl,  75
+Europe,Bosnia and Herzegovina,Wine,Production,2003,1000 hl,  91
+Europe,Bosnia and Herzegovina,Wine,Production,2004,1000 hl,  60
+Europe,Bosnia and Herzegovina,Wine,Production,2005,1000 hl,  50
+Europe,Bosnia and Herzegovina,Wine,Production,2006,1000 hl,  27
+Europe,Bosnia and Herzegovina,Wine,Production,2007,1000 hl,  46
+Europe,Bosnia and Herzegovina,Wine,Production,2008,1000 hl,  46
+Europe,Bosnia and Herzegovina,Wine,Production,2009,1000 hl,  37
+Europe,Bosnia and Herzegovina,Wine,Production,2010,1000 hl,  45
+Europe,Bosnia and Herzegovina,Wine,Production,2011,1000 hl,  34
+Europe,Bosnia and Herzegovina,Wine,Production,2012,1000 hl,  31
+Europe,Bosnia and Herzegovina,Wine,Production,2013,1000 hl,  42
+Europe,Bosnia and Herzegovina,Wine,Production,2014,1000 hl,  75
+Europe,Bosnia and Herzegovina,Wine,Production,2015,1000 hl,  54
+Europe,Bosnia and Herzegovina,Wine,Production,2016,1000 hl,  46
+Europe,Bosnia and Herzegovina,Wine,Production,2017,1000 hl,  55
+Europe,Bosnia and Herzegovina,Wine,Production,2018,1000 hl,  60
+Europe,Bosnia and Herzegovina,Wine,Production,2019,1000 hl,  60
+Europe,Bosnia and Herzegovina,Wine,Production,2020,1000 hl,  69
+Europe,Bosnia and Herzegovina,Wine,Production,2021,1000 hl,  69
+America,Brazil,Wine,Production,1995,1000 hl, 3 128
+America,Brazil,Wine,Production,1996,1000 hl, 2 320
+America,Brazil,Wine,Production,1997,1000 hl, 2 743
+America,Brazil,Wine,Production,1998,1000 hl, 2 782
+America,Brazil,Wine,Production,1999,1000 hl, 3 116
+America,Brazil,Wine,Production,2000,1000 hl, 3 638
+America,Brazil,Wine,Production,2001,1000 hl, 2 968
+America,Brazil,Wine,Production,2002,1000 hl, 3 212
+America,Brazil,Wine,Production,2003,1000 hl, 2 620
+America,Brazil,Wine,Production,2004,1000 hl, 3 925
+America,Brazil,Wine,Production,2005,1000 hl, 3 199
+America,Brazil,Wine,Production,2006,1000 hl, 2 372
+America,Brazil,Wine,Production,2007,1000 hl, 3 502
+America,Brazil,Wine,Production,2008,1000 hl, 3 683
+America,Brazil,Wine,Production,2009,1000 hl, 2 720
+America,Brazil,Wine,Production,2010,1000 hl, 2 459
+America,Brazil,Wine,Production,2011,1000 hl, 3 460
+America,Brazil,Wine,Production,2012,1000 hl, 2 967
+America,Brazil,Wine,Production,2013,1000 hl, 2 710
+America,Brazil,Wine,Production,2014,1000 hl, 2 810
+America,Brazil,Wine,Production,2015,1000 hl, 2 699
+America,Brazil,Wine,Production,2016,1000 hl, 1 257
+America,Brazil,Wine,Production,2017,1000 hl, 3 553
+America,Brazil,Wine,Production,2018,1000 hl, 3 084
+America,Brazil,Wine,Production,2019,1000 hl, 2 176
+America,Brazil,Wine,Production,2020,1000 hl, 2 257
+America,Brazil,Wine,Production,2021,1000 hl, 2 928
+America,Brazil,Wine,Production,2022,1000 hl, 3 200
+America,Brazil,Wine,Production,2023,1000 hl, 2 250
+Europe,Bulgaria,Wine,Production,1995,1000 hl, 2 641
+Europe,Bulgaria,Wine,Production,1996,1000 hl, 3 534
+Europe,Bulgaria,Wine,Production,1997,1000 hl, 3 371
+Europe,Bulgaria,Wine,Production,1998,1000 hl, 2 129
+Europe,Bulgaria,Wine,Production,1999,1000 hl, 1 715
+Europe,Bulgaria,Wine,Production,2000,1000 hl, 3 305
+Europe,Bulgaria,Wine,Production,2001,1000 hl, 2 260
+Europe,Bulgaria,Wine,Production,2002,1000 hl, 1 982
+Europe,Bulgaria,Wine,Production,2003,1000 hl, 2 314
+Europe,Bulgaria,Wine,Production,2004,1000 hl, 1 949
+Europe,Bulgaria,Wine,Production,2005,1000 hl, 1 708
+Europe,Bulgaria,Wine,Production,2006,1000 hl, 1 757
+Europe,Bulgaria,Wine,Production,2007,1000 hl, 1 796
+Europe,Bulgaria,Wine,Production,2008,1000 hl, 1 617
+Europe,Bulgaria,Wine,Production,2009,1000 hl, 1 246
+Europe,Bulgaria,Wine,Production,2010,1000 hl, 1 030
+Europe,Bulgaria,Wine,Production,2011,1000 hl, 1 098
+Europe,Bulgaria,Wine,Production,2012,1000 hl, 1 337
+Europe,Bulgaria,Wine,Production,2013,1000 hl, 1 755
+Europe,Bulgaria,Wine,Production,2014,1000 hl,  833
+Europe,Bulgaria,Wine,Production,2015,1000 hl, 1 367
+Europe,Bulgaria,Wine,Production,2016,1000 hl, 1 245
+Europe,Bulgaria,Wine,Production,2017,1000 hl, 1 157
+Europe,Bulgaria,Wine,Production,2018,1000 hl, 1 084
+Europe,Bulgaria,Wine,Production,2019,1000 hl,  918
+Europe,Bulgaria,Wine,Production,2020,1000 hl,  823
+Europe,Bulgaria,Wine,Production,2021,1000 hl,  893
+Europe,Bulgaria,Wine,Production,2022,1000 hl,  747
+America,Canada,Wine,Production,1995,1000 hl,  355
+America,Canada,Wine,Production,1996,1000 hl,  333
+America,Canada,Wine,Production,1997,1000 hl,  344
+America,Canada,Wine,Production,1998,1000 hl,  396
+America,Canada,Wine,Production,1999,1000 hl,  512
+America,Canada,Wine,Production,2000,1000 hl,  428
+America,Canada,Wine,Production,2001,1000 hl,  445
+America,Canada,Wine,Production,2002,1000 hl,  469
+America,Canada,Wine,Production,2003,1000 hl,  359
+America,Canada,Wine,Production,2004,1000 hl,  522
+America,Canada,Wine,Production,2005,1000 hl,  291
+America,Canada,Wine,Production,2006,1000 hl,  527
+America,Canada,Wine,Production,2007,1000 hl,  502
+America,Canada,Wine,Production,2008,1000 hl,  543
+America,Canada,Wine,Production,2009,1000 hl,  454
+America,Canada,Wine,Production,2010,1000 hl,  507
+America,Canada,Wine,Production,2011,1000 hl,  614
+America,Canada,Wine,Production,2012,1000 hl,  620
+America,Canada,Wine,Production,2013,1000 hl,  697
+America,Canada,Wine,Production,2014,1000 hl,  582
+America,Canada,Wine,Production,2015,1000 hl,  598
+America,Canada,Wine,Production,2016,1000 hl,  638
+America,Canada,Wine,Production,2017,1000 hl,  704
+America,Canada,Wine,Production,2018,1000 hl,  703
+America,Canada,Wine,Production,2019,1000 hl,  697
+America,Canada,Wine,Production,2020,1000 hl,  656
+America,Canada,Wine,Production,2021,1000 hl,  656
+America,Chile,Wine,Production,1995,1000 hl, 3 164
+America,Chile,Wine,Production,1996,1000 hl, 3 824
+America,Chile,Wine,Production,1997,1000 hl, 4 549
+America,Chile,Wine,Production,1998,1000 hl, 5 475
+America,Chile,Wine,Production,1999,1000 hl, 4 807
+America,Chile,Wine,Production,2000,1000 hl, 6 674
+America,Chile,Wine,Production,2001,1000 hl, 5 452
+America,Chile,Wine,Production,2002,1000 hl, 5 623
+America,Chile,Wine,Production,2003,1000 hl, 6 682
+America,Chile,Wine,Production,2004,1000 hl, 6 301
+America,Chile,Wine,Production,2005,1000 hl, 7 885
+America,Chile,Wine,Production,2006,1000 hl, 8 448
+America,Chile,Wine,Production,2007,1000 hl, 8 227
+America,Chile,Wine,Production,2008,1000 hl, 8 683
+America,Chile,Wine,Production,2009,1000 hl, 10 093
+America,Chile,Wine,Production,2010,1000 hl, 8 844
+America,Chile,Wine,Production,2011,1000 hl, 10 464
+America,Chile,Wine,Production,2012,1000 hl, 12 554
+America,Chile,Wine,Production,2013,1000 hl, 12 821
+America,Chile,Wine,Production,2014,1000 hl, 9 896
+America,Chile,Wine,Production,2015,1000 hl, 12 866
+America,Chile,Wine,Production,2016,1000 hl, 10 143
+America,Chile,Wine,Production,2017,1000 hl, 9 492
+America,Chile,Wine,Production,2018,1000 hl, 12 898
+America,Chile,Wine,Production,2019,1000 hl, 11 939
+America,Chile,Wine,Production,2020,1000 hl, 10 337
+America,Chile,Wine,Production,2021,1000 hl, 13 437
+America,Chile,Wine,Production,2022,1000 hl, 12 443
+America,Chile,Wine,Production,2023,1000 hl, 12 605
+Asia,China,Wine,Production,1995,1000 hl, 7 000
+Asia,China,Wine,Production,1996,1000 hl, 7 500
+Asia,China,Wine,Production,1997,1000 hl, 9 000
+Asia,China,Wine,Production,1998,1000 hl, 10 645
+Asia,China,Wine,Production,1999,1000 hl, 10 261
+Asia,China,Wine,Production,2000,1000 hl, 10 500
+Asia,China,Wine,Production,2001,1000 hl, 10 800
+Asia,China,Wine,Production,2002,1000 hl, 11 200
+Asia,China,Wine,Production,2003,1000 hl, 11 600
+Asia,China,Wine,Production,2004,1000 hl, 11 700
+Asia,China,Wine,Production,2005,1000 hl, 11 800
+Asia,China,Wine,Production,2006,1000 hl, 11 900
+Asia,China,Wine,Production,2007,1000 hl, 12 500
+Asia,China,Wine,Production,2008,1000 hl, 12 600
+Asia,China,Wine,Production,2009,1000 hl, 12 800
+Asia,China,Wine,Production,2010,1000 hl, 13 000
+Asia,China,Wine,Production,2011,1000 hl, 13 426
+Asia,China,Wine,Production,2012,1000 hl, 16 065
+Asia,China,Wine,Production,2013,1000 hl, 13 693
+Asia,China,Wine,Production,2014,1000 hl, 13 496
+Asia,China,Wine,Production,2015,1000 hl, 13 345
+Asia,China,Wine,Production,2016,1000 hl, 13 217
+Asia,China,Wine,Production,2017,1000 hl, 11 636
+Asia,China,Wine,Production,2018,1000 hl, 9 269
+Asia,China,Wine,Production,2019,1000 hl, 7 824
+Asia,China,Wine,Production,2020,1000 hl, 6 587
+Asia,China,Wine,Production,2021,1000 hl, 5 908
+Asia,China,Wine,Production,2022,1000 hl, 4 182
+Africa,Côte d'Ivoire,Wine,Production,2010,1000 hl,0
+Africa,Côte d'Ivoire,Wine,Production,2011,1000 hl,0
+Africa,Côte d'Ivoire,Wine,Production,2012,1000 hl,0
+Africa,Côte d'Ivoire,Wine,Production,2013,1000 hl,0
+Africa,Côte d'Ivoire,Wine,Production,2014,1000 hl,0
+Africa,Côte d'Ivoire,Wine,Production,2015,1000 hl,0
+Africa,Côte d'Ivoire,Wine,Production,2016,1000 hl,0
+Africa,Côte d'Ivoire,Wine,Production,2017,1000 hl,0
+Africa,Côte d'Ivoire,Wine,Production,2018,1000 hl,0
+Africa,Côte d'Ivoire,Wine,Production,2019,1000 hl,0
+Africa,Côte d'Ivoire,Wine,Production,2020,1000 hl,0
+Africa,Côte d'Ivoire,Wine,Production,2021,1000 hl,0
+Africa,Côte d'Ivoire,Wine,Production,2022,1000 hl,0
+Europe,Croatia,Wine,Production,1995,1000 hl, 1 785
+Europe,Croatia,Wine,Production,1996,1000 hl, 1 958
+Europe,Croatia,Wine,Production,1997,1000 hl, 2 260
+Europe,Croatia,Wine,Production,1998,1000 hl, 2 277
+Europe,Croatia,Wine,Production,1999,1000 hl, 2 094
+Europe,Croatia,Wine,Production,2000,1000 hl, 1 891
+Europe,Croatia,Wine,Production,2001,1000 hl, 1 951
+Europe,Croatia,Wine,Production,2002,1000 hl, 2 095
+Europe,Croatia,Wine,Production,2003,1000 hl, 1 768
+Europe,Croatia,Wine,Production,2004,1000 hl, 1 204
+Europe,Croatia,Wine,Production,2005,1000 hl, 1 248
+Europe,Croatia,Wine,Production,2006,1000 hl, 1 237
+Europe,Croatia,Wine,Production,2007,1000 hl, 1 365
+Europe,Croatia,Wine,Production,2008,1000 hl, 1 276
+Europe,Croatia,Wine,Production,2009,1000 hl, 1 424
+Europe,Croatia,Wine,Production,2010,1000 hl, 1 433
+Europe,Croatia,Wine,Production,2011,1000 hl, 1 409
+Europe,Croatia,Wine,Production,2012,1000 hl, 1 293
+Europe,Croatia,Wine,Production,2013,1000 hl, 1 248
+Europe,Croatia,Wine,Production,2014,1000 hl,  842
+Europe,Croatia,Wine,Production,2015,1000 hl,  992
+Europe,Croatia,Wine,Production,2016,1000 hl,  760
+Europe,Croatia,Wine,Production,2017,1000 hl,  726
+Europe,Croatia,Wine,Production,2018,1000 hl,  952
+Europe,Croatia,Wine,Production,2019,1000 hl,  952
+Europe,Croatia,Wine,Production,2020,1000 hl,  800
+Europe,Croatia,Wine,Production,2021,1000 hl,  765
+Europe,Croatia,Wine,Production,2022,1000 hl,  726
+America,Cuba,Wine,Production,1995,1000 hl,0
+America,Cuba,Wine,Production,1996,1000 hl,0
+America,Cuba,Wine,Production,1997,1000 hl,0
+America,Cuba,Wine,Production,1998,1000 hl,0
+America,Cuba,Wine,Production,1999,1000 hl,  148
+America,Cuba,Wine,Production,2000,1000 hl,  156
+America,Cuba,Wine,Production,2001,1000 hl,  141
+America,Cuba,Wine,Production,2002,1000 hl,  108
+America,Cuba,Wine,Production,2003,1000 hl,  110
+America,Cuba,Wine,Production,2004,1000 hl,  99
+America,Cuba,Wine,Production,2005,1000 hl,  95
+America,Cuba,Wine,Production,2006,1000 hl,  94
+America,Cuba,Wine,Production,2007,1000 hl,  102
+America,Cuba,Wine,Production,2008,1000 hl,  106
+America,Cuba,Wine,Production,2009,1000 hl,  104
+America,Cuba,Wine,Production,2010,1000 hl,  108
+America,Cuba,Wine,Production,2011,1000 hl,  114
+America,Cuba,Wine,Production,2012,1000 hl,  124
+America,Cuba,Wine,Production,2013,1000 hl,  116
+America,Cuba,Wine,Production,2014,1000 hl,  125
+America,Cuba,Wine,Production,2015,1000 hl,  115
+America,Cuba,Wine,Production,2016,1000 hl,  117
+America,Cuba,Wine,Production,2017,1000 hl,  120
+America,Cuba,Wine,Production,2018,1000 hl,  114
+America,Cuba,Wine,Production,2019,1000 hl,  106
+America,Cuba,Wine,Production,2020,1000 hl,  144
+America,Cuba,Wine,Production,2021,1000 hl,  131
+Europe,Cyprus,Wine,Production,1995,1000 hl,  555
+Europe,Cyprus,Wine,Production,1996,1000 hl,  559
+Europe,Cyprus,Wine,Production,1997,1000 hl,  534
+Europe,Cyprus,Wine,Production,1998,1000 hl,  710
+Europe,Cyprus,Wine,Production,1999,1000 hl,  555
+Europe,Cyprus,Wine,Production,2000,1000 hl,  570
+Europe,Cyprus,Wine,Production,2001,1000 hl,  503
+Europe,Cyprus,Wine,Production,2002,1000 hl,  240
+Europe,Cyprus,Wine,Production,2003,1000 hl,  385
+Europe,Cyprus,Wine,Production,2004,1000 hl,  404
+Europe,Cyprus,Wine,Production,2005,1000 hl,  197
+Europe,Cyprus,Wine,Production,2006,1000 hl,  183
+Europe,Cyprus,Wine,Production,2007,1000 hl,  169
+Europe,Cyprus,Wine,Production,2008,1000 hl,  147
+Europe,Cyprus,Wine,Production,2009,1000 hl,  145
+Europe,Cyprus,Wine,Production,2010,1000 hl,  114
+Europe,Cyprus,Wine,Production,2011,1000 hl,  85
+Europe,Cyprus,Wine,Production,2012,1000 hl,  112
+Europe,Cyprus,Wine,Production,2013,1000 hl,  94
+Europe,Cyprus,Wine,Production,2014,1000 hl,  86
+Europe,Cyprus,Wine,Production,2015,1000 hl,  91
+Europe,Cyprus,Wine,Production,2016,1000 hl,  69
+Europe,Cyprus,Wine,Production,2017,1000 hl,  99
+Europe,Cyprus,Wine,Production,2018,1000 hl,  109
+Europe,Cyprus,Wine,Production,2019,1000 hl,  100
+Europe,Cyprus,Wine,Production,2020,1000 hl,  89
+Europe,Cyprus,Wine,Production,2021,1000 hl,  68
+Europe,Cyprus,Wine,Production,2022,1000 hl,  108
+Europe,Czech Republic,Wine,Production,1995,1000 hl,  459
+Europe,Czech Republic,Wine,Production,1996,1000 hl,  516
+Europe,Czech Republic,Wine,Production,1997,1000 hl,  405
+Europe,Czech Republic,Wine,Production,1998,1000 hl,  560
+Europe,Czech Republic,Wine,Production,1999,1000 hl,  563
+Europe,Czech Republic,Wine,Production,2000,1000 hl,  525
+Europe,Czech Republic,Wine,Production,2001,1000 hl,  518
+Europe,Czech Republic,Wine,Production,2002,1000 hl,  495
+Europe,Czech Republic,Wine,Production,2003,1000 hl,  510
+Europe,Czech Republic,Wine,Production,2004,1000 hl,  540
+Europe,Czech Republic,Wine,Production,2005,1000 hl,  436
+Europe,Czech Republic,Wine,Production,2006,1000 hl,  432
+Europe,Czech Republic,Wine,Production,2007,1000 hl,  820
+Europe,Czech Republic,Wine,Production,2008,1000 hl,  840
+Europe,Czech Republic,Wine,Production,2009,1000 hl,  570
+Europe,Czech Republic,Wine,Production,2010,1000 hl,  564
+Europe,Czech Republic,Wine,Production,2011,1000 hl,  650
+Europe,Czech Republic,Wine,Production,2012,1000 hl,  470
+Europe,Czech Republic,Wine,Production,2013,1000 hl,  501
+Europe,Czech Republic,Wine,Production,2014,1000 hl,  536
+Europe,Czech Republic,Wine,Production,2015,1000 hl,  819
+Europe,Czech Republic,Wine,Production,2016,1000 hl,  631
+Europe,Czech Republic,Wine,Production,2017,1000 hl,  645
+Europe,Czech Republic,Wine,Production,2018,1000 hl,  691
+Europe,Czech Republic,Wine,Production,2019,1000 hl,  492
+Europe,Czech Republic,Wine,Production,2020,1000 hl,  603
+Europe,Czech Republic,Wine,Production,2021,1000 hl,  592
+Europe,Czech Republic,Wine,Production,2022,1000 hl,  573
+Europe,Denmark,Wine,Production,2010,1000 hl,0
+Europe,Denmark,Wine,Production,2011,1000 hl,0
+Europe,Denmark,Wine,Production,2012,1000 hl,0
+Europe,Denmark,Wine,Production,2013,1000 hl,0
+Europe,Denmark,Wine,Production,2014,1000 hl,0
+Europe,Denmark,Wine,Production,2015,1000 hl,  11
+Europe,Denmark,Wine,Production,2016,1000 hl,  1
+Europe,Denmark,Wine,Production,2017,1000 hl,  1
+Europe,Denmark,Wine,Production,2018,1000 hl,  1
+Europe,Denmark,Wine,Production,2019,1000 hl,  1
+Europe,Denmark,Wine,Production,2020,1000 hl,  1
+Europe,Denmark,Wine,Production,2021,1000 hl,  1
+Europe,Denmark,Wine,Production,2022,1000 hl,  1
+Africa,Egypt,Wine,Production,1995,1000 hl,  26
+Africa,Egypt,Wine,Production,1996,1000 hl,  26
+Africa,Egypt,Wine,Production,1997,1000 hl,  27
+Africa,Egypt,Wine,Production,1998,1000 hl,  27
+Africa,Egypt,Wine,Production,1999,1000 hl,  27
+Africa,Egypt,Wine,Production,2000,1000 hl,  30
+Africa,Egypt,Wine,Production,2001,1000 hl,  42
+Africa,Egypt,Wine,Production,2002,1000 hl,  40
+Africa,Egypt,Wine,Production,2003,1000 hl,  56
+Africa,Egypt,Wine,Production,2004,1000 hl,  68
+Africa,Egypt,Wine,Production,2005,1000 hl,  64
+Africa,Egypt,Wine,Production,2006,1000 hl,  68
+Africa,Egypt,Wine,Production,2007,1000 hl,  105
+Africa,Egypt,Wine,Production,2008,1000 hl,  143
+Africa,Egypt,Wine,Production,2009,1000 hl,  118
+Africa,Egypt,Wine,Production,2010,1000 hl,  44
+Africa,Egypt,Wine,Production,2011,1000 hl,  43
+Africa,Egypt,Wine,Production,2012,1000 hl,  45
+Africa,Egypt,Wine,Production,2013,1000 hl,  45
+Africa,Egypt,Wine,Production,2014,1000 hl,  50
+Africa,Egypt,Wine,Production,2015,1000 hl,  59
+Africa,Egypt,Wine,Production,2016,1000 hl,  58
+Africa,Egypt,Wine,Production,2017,1000 hl,  60
+Africa,Egypt,Wine,Production,2018,1000 hl,  57
+Africa,Egypt,Wine,Production,2019,1000 hl,  54
+Africa,Egypt,Wine,Production,2020,1000 hl,  53
+Africa,Egypt,Wine,Production,2021,1000 hl,  53
+Europe,Estonia,Wine,Production,1995,1000 hl,  14
+Europe,Estonia,Wine,Production,1996,1000 hl,  22
+Europe,Estonia,Wine,Production,1997,1000 hl,  22
+Europe,Estonia,Wine,Production,1998,1000 hl,  31
+Europe,Estonia,Wine,Production,1999,1000 hl,  24
+Europe,Estonia,Wine,Production,2000,1000 hl,  33
+Europe,Estonia,Wine,Production,2001,1000 hl,  30
+Europe,Estonia,Wine,Production,2002,1000 hl,  20
+Europe,Estonia,Wine,Production,2003,1000 hl,  20
+Europe,Estonia,Wine,Production,2004,1000 hl,  20
+Europe,Estonia,Wine,Production,2005,1000 hl,  20
+Europe,Estonia,Wine,Production,2006,1000 hl,  10
+Europe,Estonia,Wine,Production,2007,1000 hl,  10
+Europe,Estonia,Wine,Production,2008,1000 hl,  10
+Europe,Estonia,Wine,Production,2009,1000 hl,  10
+Europe,Estonia,Wine,Production,2010,1000 hl,  28
+Europe,Estonia,Wine,Production,2011,1000 hl,  64
+Europe,Estonia,Wine,Production,2012,1000 hl,  96
+Europe,Estonia,Wine,Production,2013,1000 hl,  107
+Europe,Estonia,Wine,Production,2014,1000 hl,  111
+Europe,Estonia,Wine,Production,2015,1000 hl,  115
+Europe,Estonia,Wine,Production,2016,1000 hl,  110
+Europe,Estonia,Wine,Production,2017,1000 hl,  110
+Europe,Estonia,Wine,Production,2018,1000 hl,  110
+Europe,Estonia,Wine,Production,2019,1000 hl,  110
+Europe,Estonia,Wine,Production,2020,1000 hl,  110
+Europe,Estonia,Wine,Production,2021,1000 hl,  110
+Africa,Ethiopia,Wine,Production,1995,1000 hl,  10
+Africa,Ethiopia,Wine,Production,1996,1000 hl,  10
+Africa,Ethiopia,Wine,Production,1997,1000 hl,  10
+Africa,Ethiopia,Wine,Production,1998,1000 hl,  15
+Africa,Ethiopia,Wine,Production,1999,1000 hl,  18
+Africa,Ethiopia,Wine,Production,2000,1000 hl,  23
+Africa,Ethiopia,Wine,Production,2001,1000 hl,  25
+Africa,Ethiopia,Wine,Production,2002,1000 hl,  26
+Africa,Ethiopia,Wine,Production,2003,1000 hl,  26
+Africa,Ethiopia,Wine,Production,2004,1000 hl,  28
+Africa,Ethiopia,Wine,Production,2005,1000 hl,  32
+Africa,Ethiopia,Wine,Production,2006,1000 hl,  26
+Africa,Ethiopia,Wine,Production,2007,1000 hl,  30
+Africa,Ethiopia,Wine,Production,2008,1000 hl,  14
+Africa,Ethiopia,Wine,Production,2009,1000 hl,  16
+Africa,Ethiopia,Wine,Production,2010,1000 hl,  9
+Africa,Ethiopia,Wine,Production,2011,1000 hl,  9
+Africa,Ethiopia,Wine,Production,2012,1000 hl,  9
+Africa,Ethiopia,Wine,Production,2013,1000 hl,  9
+Africa,Ethiopia,Wine,Production,2014,1000 hl,  9
+Africa,Ethiopia,Wine,Production,2015,1000 hl,  8
+Africa,Ethiopia,Wine,Production,2016,1000 hl,  8
+Africa,Ethiopia,Wine,Production,2017,1000 hl,  8
+Africa,Ethiopia,Wine,Production,2018,1000 hl,  8
+Africa,Ethiopia,Wine,Production,2019,1000 hl,  8
+Africa,Ethiopia,Wine,Production,2020,1000 hl,  8
+Africa,Ethiopia,Wine,Production,2021,1000 hl,  8
+Europe,France,Wine,Production,1995,1000 hl, 54 354
+Europe,France,Wine,Production,1996,1000 hl, 57 047
+Europe,France,Wine,Production,1997,1000 hl, 53 561
+Europe,France,Wine,Production,1998,1000 hl, 52 671
+Europe,France,Wine,Production,1999,1000 hl, 60 535
+Europe,France,Wine,Production,2000,1000 hl, 57 541
+Europe,France,Wine,Production,2001,1000 hl, 53 389
+Europe,France,Wine,Production,2002,1000 hl, 50 353
+Europe,France,Wine,Production,2003,1000 hl, 46 360
+Europe,France,Wine,Production,2004,1000 hl, 57 386
+Europe,France,Wine,Production,2005,1000 hl, 52 105
+Europe,France,Wine,Production,2006,1000 hl, 52 127
+Europe,France,Wine,Production,2007,1000 hl, 45 672
+Europe,France,Wine,Production,2008,1000 hl, 42 654
+Europe,France,Wine,Production,2009,1000 hl, 46 269
+Europe,France,Wine,Production,2010,1000 hl, 44 381
+Europe,France,Wine,Production,2011,1000 hl, 50 757
+Europe,France,Wine,Production,2012,1000 hl, 41 548
+Europe,France,Wine,Production,2013,1000 hl, 42 134
+Europe,France,Wine,Production,2014,1000 hl, 46 534
+Europe,France,Wine,Production,2015,1000 hl, 47 775
+Europe,France,Wine,Production,2016,1000 hl, 45 367
+Europe,France,Wine,Production,2017,1000 hl, 36 605
+Europe,France,Wine,Production,2018,1000 hl, 49 186
+Europe,France,Wine,Production,2019,1000 hl, 42 324
+Europe,France,Wine,Production,2020,1000 hl, 46 739
+Europe,France,Wine,Production,2021,1000 hl, 37 753
+Europe,France,Wine,Production,2022,1000 hl, 45 616
+Asia,Georgia,Wine,Production,1995,1000 hl, 2 050
+Asia,Georgia,Wine,Production,1996,1000 hl, 2 025
+Asia,Georgia,Wine,Production,1997,1000 hl, 1 800
+Asia,Georgia,Wine,Production,1998,1000 hl, 1 250
+Asia,Georgia,Wine,Production,1999,1000 hl, 1 300
+Asia,Georgia,Wine,Production,2000,1000 hl, 1 138
+Asia,Georgia,Wine,Production,2001,1000 hl, 1 326
+Asia,Georgia,Wine,Production,2002,1000 hl, 1 136
+Asia,Georgia,Wine,Production,2003,1000 hl,  800
+Asia,Georgia,Wine,Production,2004,1000 hl,  950
+Asia,Georgia,Wine,Production,2005,1000 hl, 1 300
+Asia,Georgia,Wine,Production,2006,1000 hl,  950
+Asia,Georgia,Wine,Production,2007,1000 hl, 1 475
+Asia,Georgia,Wine,Production,2008,1000 hl, 1 105
+Asia,Georgia,Wine,Production,2009,1000 hl, 1 043
+Asia,Georgia,Wine,Production,2010,1000 hl, 1 034
+Asia,Georgia,Wine,Production,2011,1000 hl, 1 108
+Asia,Georgia,Wine,Production,2012,1000 hl,  830
+Asia,Georgia,Wine,Production,2013,1000 hl,  997
+Asia,Georgia,Wine,Production,2014,1000 hl,  920
+Asia,Georgia,Wine,Production,2015,1000 hl, 1 196
+Asia,Georgia,Wine,Production,2016,1000 hl,  884
+Asia,Georgia,Wine,Production,2017,1000 hl, 1 002
+Asia,Georgia,Wine,Production,2018,1000 hl, 1 740
+Asia,Georgia,Wine,Production,2019,1000 hl, 1 760
+Asia,Georgia,Wine,Production,2020,1000 hl, 1 800
+Asia,Georgia,Wine,Production,2021,1000 hl, 2 100
+Asia,Georgia,Wine,Production,2022,1000 hl, 2 135
+Europe,Germany,Wine,Production,1995,1000 hl, 8 510
+Europe,Germany,Wine,Production,1996,1000 hl, 8 642
+Europe,Germany,Wine,Production,1997,1000 hl, 8 495
+Europe,Germany,Wine,Production,1998,1000 hl, 10 834
+Europe,Germany,Wine,Production,1999,1000 hl, 12 123
+Europe,Germany,Wine,Production,2000,1000 hl, 9 852
+Europe,Germany,Wine,Production,2001,1000 hl, 8 891
+Europe,Germany,Wine,Production,2002,1000 hl, 9 885
+Europe,Germany,Wine,Production,2003,1000 hl, 8 191
+Europe,Germany,Wine,Production,2004,1000 hl, 10 007
+Europe,Germany,Wine,Production,2005,1000 hl, 9 153
+Europe,Germany,Wine,Production,2006,1000 hl, 8 916
+Europe,Germany,Wine,Production,2007,1000 hl, 10 261
+Europe,Germany,Wine,Production,2008,1000 hl, 9 991
+Europe,Germany,Wine,Production,2009,1000 hl, 9 228
+Europe,Germany,Wine,Production,2010,1000 hl, 6 906
+Europe,Germany,Wine,Production,2011,1000 hl, 9 132
+Europe,Germany,Wine,Production,2012,1000 hl, 9 012
+Europe,Germany,Wine,Production,2013,1000 hl, 8 409
+Europe,Germany,Wine,Production,2014,1000 hl, 9 202
+Europe,Germany,Wine,Production,2015,1000 hl, 8 819
+Europe,Germany,Wine,Production,2016,1000 hl, 9 013
+Europe,Germany,Wine,Production,2017,1000 hl, 7 462
+Europe,Germany,Wine,Production,2018,1000 hl, 10 268
+Europe,Germany,Wine,Production,2019,1000 hl, 8 218
+Europe,Germany,Wine,Production,2020,1000 hl, 8 405
+Europe,Germany,Wine,Production,2021,1000 hl, 8 448
+Europe,Germany,Wine,Production,2022,1000 hl, 8 940
+Global,Global,Wine,Production,1995,1000 hl, 250 874
+Global,Global,Wine,Production,1996,1000 hl, 269 627
+Global,Global,Wine,Production,1997,1000 hl, 262 367
+Global,Global,Wine,Production,1998,1000 hl, 259 544
+Global,Global,Wine,Production,1999,1000 hl, 279 578
+Global,Global,Wine,Production,2000,1000 hl, 276 946
+Global,Global,Wine,Production,2001,1000 hl, 263 316
+Global,Global,Wine,Production,2002,1000 hl, 255 318
+Global,Global,Wine,Production,2003,1000 hl, 261 926
+Global,Global,Wine,Production,2004,1000 hl, 295 452
+Global,Global,Wine,Production,2005,1000 hl, 276 317
+Global,Global,Wine,Production,2006,1000 hl, 282 817
+Global,Global,Wine,Production,2007,1000 hl, 268 074
+Global,Global,Wine,Production,2008,1000 hl, 269 133
+Global,Global,Wine,Production,2009,1000 hl, 269 254
+Global,Global,Wine,Production,2010,1000 hl, 261 800
+Global,Global,Wine,Production,2011,1000 hl, 267 733
+Global,Global,Wine,Production,2012,1000 hl, 260 642
+Global,Global,Wine,Production,2013,1000 hl, 292 217
+Global,Global,Wine,Production,2014,1000 hl, 270 453
+Global,Global,Wine,Production,2015,1000 hl, 277 100
+Global,Global,Wine,Production,2016,1000 hl, 270 545
+Global,Global,Wine,Production,2017,1000 hl, 248 300
+Global,Global,Wine,Production,2018,1000 hl, 294 641
+Global,Global,Wine,Production,2019,1000 hl, 258 143
+Global,Global,Wine,Production,2020,1000 hl, 262 098
+Global,Global,Wine,Production,2021,1000 hl, 260 872
+Global,Global,Wine,Production,2022,1000 hl, 258 265
+Europe,Greece,Wine,Production,1995,1000 hl, 3 841
+Europe,Greece,Wine,Production,1996,1000 hl, 4 109
+Europe,Greece,Wine,Production,1997,1000 hl, 3 987
+Europe,Greece,Wine,Production,1998,1000 hl, 3 826
+Europe,Greece,Wine,Production,1999,1000 hl, 3 680
+Europe,Greece,Wine,Production,2000,1000 hl, 3 558
+Europe,Greece,Wine,Production,2001,1000 hl, 3 477
+Europe,Greece,Wine,Production,2002,1000 hl, 3 085
+Europe,Greece,Wine,Production,2003,1000 hl, 3 799
+Europe,Greece,Wine,Production,2004,1000 hl, 4 248
+Europe,Greece,Wine,Production,2005,1000 hl, 4 027
+Europe,Greece,Wine,Production,2006,1000 hl, 3 938
+Europe,Greece,Wine,Production,2007,1000 hl, 3 511
+Europe,Greece,Wine,Production,2008,1000 hl, 3 869
+Europe,Greece,Wine,Production,2009,1000 hl, 3 366
+Europe,Greece,Wine,Production,2010,1000 hl, 2 950
+Europe,Greece,Wine,Production,2011,1000 hl, 2 750
+Europe,Greece,Wine,Production,2012,1000 hl, 3 115
+Europe,Greece,Wine,Production,2013,1000 hl, 3 343
+Europe,Greece,Wine,Production,2014,1000 hl, 2 800
+Europe,Greece,Wine,Production,2015,1000 hl, 2 501
+Europe,Greece,Wine,Production,2016,1000 hl, 2 490
+Europe,Greece,Wine,Production,2017,1000 hl, 2 550
+Europe,Greece,Wine,Production,2018,1000 hl, 2 235
+Europe,Greece,Wine,Production,2019,1000 hl, 2 387
+Europe,Greece,Wine,Production,2020,1000 hl, 2 221
+Europe,Greece,Wine,Production,2021,1000 hl, 2 416
+Europe,Greece,Wine,Production,2022,1000 hl, 2 084
+Europe,Hungary,Wine,Production,1995,1000 hl, 3 289
+Europe,Hungary,Wine,Production,1996,1000 hl, 4 188
+Europe,Hungary,Wine,Production,1997,1000 hl, 4 472
+Europe,Hungary,Wine,Production,1998,1000 hl, 4 334
+Europe,Hungary,Wine,Production,1999,1000 hl, 3 339
+Europe,Hungary,Wine,Production,2000,1000 hl, 4 299
+Europe,Hungary,Wine,Production,2001,1000 hl, 5 406
+Europe,Hungary,Wine,Production,2002,1000 hl, 3 333
+Europe,Hungary,Wine,Production,2003,1000 hl, 3 880
+Europe,Hungary,Wine,Production,2004,1000 hl, 5 272
+Europe,Hungary,Wine,Production,2005,1000 hl, 2 900
+Europe,Hungary,Wine,Production,2006,1000 hl, 3 100
+Europe,Hungary,Wine,Production,2007,1000 hl, 3 222
+Europe,Hungary,Wine,Production,2008,1000 hl, 3 460
+Europe,Hungary,Wine,Production,2009,1000 hl, 3 065
+Europe,Hungary,Wine,Production,2010,1000 hl, 1 646
+Europe,Hungary,Wine,Production,2011,1000 hl, 2 508
+Europe,Hungary,Wine,Production,2012,1000 hl, 1 765
+Europe,Hungary,Wine,Production,2013,1000 hl, 2 573
+Europe,Hungary,Wine,Production,2014,1000 hl, 2 427
+Europe,Hungary,Wine,Production,2015,1000 hl, 2 780
+Europe,Hungary,Wine,Production,2016,1000 hl, 2 821
+Europe,Hungary,Wine,Production,2017,1000 hl, 2 548
+Europe,Hungary,Wine,Production,2018,1000 hl, 3 645
+Europe,Hungary,Wine,Production,2019,1000 hl, 2 394
+Europe,Hungary,Wine,Production,2020,1000 hl, 2 586
+Europe,Hungary,Wine,Production,2021,1000 hl, 2 588
+Europe,Hungary,Wine,Production,2022,1000 hl, 2 484
+Asia,India,Wine,Production,2004,1000 hl,  47
+Asia,India,Wine,Production,2005,1000 hl,  58
+Asia,India,Wine,Production,2006,1000 hl,  86
+Asia,India,Wine,Production,2007,1000 hl,  112
+Asia,India,Wine,Production,2008,1000 hl,  117
+Asia,India,Wine,Production,2009,1000 hl,  149
+Asia,India,Wine,Production,2010,1000 hl,  160
+Asia,India,Wine,Production,2011,1000 hl,  142
+Asia,India,Wine,Production,2012,1000 hl,  146
+Asia,India,Wine,Production,2013,1000 hl,  170
+Asia,India,Wine,Production,2014,1000 hl,  173
+Asia,India,Wine,Production,2015,1000 hl,  183
+Asia,India,Wine,Production,2016,1000 hl,  194
+Asia,India,Wine,Production,2017,1000 hl,  204
+Asia,India,Wine,Production,2018,1000 hl,  210
+Asia,India,Wine,Production,2019,1000 hl,  180
+Asia,India,Wine,Production,2020,1000 hl,  180
+Asia,India,Wine,Production,2021,1000 hl,  180
+Asia,India,Wine,Production,2022,1000 hl,  180
+Asia,Iran,Wine,Production,2015,1000 hl,0
+Asia,Iran,Wine,Production,2016,1000 hl,0
+Asia,Iran,Wine,Production,2017,1000 hl,0
+Asia,Iran,Wine,Production,2018,1000 hl,0
+Asia,Iran,Wine,Production,2019,1000 hl,0
+Asia,Iran,Wine,Production,2020,1000 hl,0
+Asia,Iran,Wine,Production,2021,1000 hl,0
+Asia,Iran,Wine,Production,2022,1000 hl,0
+Europe,Ireland,Wine,Production,2010,1000 hl,0
+Europe,Ireland,Wine,Production,2011,1000 hl,0
+Europe,Ireland,Wine,Production,2012,1000 hl,0
+Europe,Ireland,Wine,Production,2013,1000 hl,0
+Europe,Ireland,Wine,Production,2014,1000 hl,0
+Europe,Ireland,Wine,Production,2015,1000 hl,0
+Europe,Ireland,Wine,Production,2016,1000 hl,0
+Europe,Ireland,Wine,Production,2017,1000 hl,0
+Europe,Ireland,Wine,Production,2018,1000 hl,0
+Europe,Ireland,Wine,Production,2019,1000 hl,0
+Europe,Ireland,Wine,Production,2020,1000 hl,0
+Europe,Ireland,Wine,Production,2021,1000 hl,0
+Europe,Ireland,Wine,Production,2022,1000 hl,0
+Asia,Israel,Wine,Production,1995,1000 hl,  122
+Asia,Israel,Wine,Production,1996,1000 hl,  90
+Asia,Israel,Wine,Production,1997,1000 hl,  90
+Asia,Israel,Wine,Production,1998,1000 hl,  90
+Asia,Israel,Wine,Production,1999,1000 hl,  80
+Asia,Israel,Wine,Production,2000,1000 hl,  75
+Asia,Israel,Wine,Production,2001,1000 hl,  50
+Asia,Israel,Wine,Production,2002,1000 hl,  57
+Asia,Israel,Wine,Production,2003,1000 hl,  234
+Asia,Israel,Wine,Production,2004,1000 hl,  240
+Asia,Israel,Wine,Production,2005,1000 hl,  240
+Asia,Israel,Wine,Production,2006,1000 hl,  234
+Asia,Israel,Wine,Production,2007,1000 hl,  218
+Asia,Israel,Wine,Production,2008,1000 hl,  228
+Asia,Israel,Wine,Production,2009,1000 hl,  230
+Asia,Israel,Wine,Production,2010,1000 hl,  245
+Asia,Israel,Wine,Production,2011,1000 hl,  259
+Asia,Israel,Wine,Production,2012,1000 hl,  280
+Asia,Israel,Wine,Production,2013,1000 hl,  300
+Asia,Israel,Wine,Production,2014,1000 hl,  320
+Asia,Israel,Wine,Production,2015,1000 hl,  341
+Asia,Israel,Wine,Production,2016,1000 hl,  361
+Asia,Israel,Wine,Production,2017,1000 hl,  381
+Asia,Israel,Wine,Production,2018,1000 hl,  402
+Asia,Israel,Wine,Production,2019,1000 hl,  422
+Asia,Israel,Wine,Production,2020,1000 hl,  496
+Asia,Israel,Wine,Production,2021,1000 hl,  385
+Asia,Israel,Wine,Production,2022,1000 hl,  430
+Europe,Italy,Wine,Production,1995,1000 hl, 55 702
+Europe,Italy,Wine,Production,1996,1000 hl, 58 772
+Europe,Italy,Wine,Production,1997,1000 hl, 50 894
+Europe,Italy,Wine,Production,1998,1000 hl, 54 188
+Europe,Italy,Wine,Production,1999,1000 hl, 56 454
+Europe,Italy,Wine,Production,2000,1000 hl, 51 620
+Europe,Italy,Wine,Production,2001,1000 hl, 49 865
+Europe,Italy,Wine,Production,2002,1000 hl, 42 507
+Europe,Italy,Wine,Production,2003,1000 hl, 41 807
+Europe,Italy,Wine,Production,2004,1000 hl, 49 935
+Europe,Italy,Wine,Production,2005,1000 hl, 50 566
+Europe,Italy,Wine,Production,2006,1000 hl, 52 036
+Europe,Italy,Wine,Production,2007,1000 hl, 45 981
+Europe,Italy,Wine,Production,2008,1000 hl, 46 970
+Europe,Italy,Wine,Production,2009,1000 hl, 47 314
+Europe,Italy,Wine,Production,2010,1000 hl, 48 525
+Europe,Italy,Wine,Production,2011,1000 hl, 42 772
+Europe,Italy,Wine,Production,2012,1000 hl, 45 616
+Europe,Italy,Wine,Production,2013,1000 hl, 54 029
+Europe,Italy,Wine,Production,2014,1000 hl, 44 229
+Europe,Italy,Wine,Production,2015,1000 hl, 49 996
+Europe,Italy,Wine,Production,2016,1000 hl, 50 920
+Europe,Italy,Wine,Production,2017,1000 hl, 42 500
+Europe,Italy,Wine,Production,2018,1000 hl, 54 783
+Europe,Italy,Wine,Production,2019,1000 hl, 47 533
+Europe,Italy,Wine,Production,2020,1000 hl, 49 066
+Europe,Italy,Wine,Production,2021,1000 hl, 50 232
+Europe,Italy,Wine,Production,2022,1000 hl, 49 843
+Asia,Japan,Wine,Production,1995,1000 hl,  652
+Asia,Japan,Wine,Production,1996,1000 hl,  675
+Asia,Japan,Wine,Production,1997,1000 hl,  934
+Asia,Japan,Wine,Production,1998,1000 hl, 1 159
+Asia,Japan,Wine,Production,1999,1000 hl, 1 003
+Asia,Japan,Wine,Production,2000,1000 hl,  974
+Asia,Japan,Wine,Production,2001,1000 hl, 1 105
+Asia,Japan,Wine,Production,2002,1000 hl, 1 110
+Asia,Japan,Wine,Production,2003,1000 hl,  938
+Asia,Japan,Wine,Production,2004,1000 hl,  938
+Asia,Japan,Wine,Production,2005,1000 hl,  955
+Asia,Japan,Wine,Production,2006,1000 hl,  900
+Asia,Japan,Wine,Production,2007,1000 hl,  630
+Asia,Japan,Wine,Production,2008,1000 hl,  660
+Asia,Japan,Wine,Production,2009,1000 hl,  730
+Asia,Japan,Wine,Production,2010,1000 hl,  750
+Asia,Japan,Wine,Production,2011,1000 hl,  790
+Asia,Japan,Wine,Production,2012,1000 hl,  800
+Asia,Japan,Wine,Production,2013,1000 hl,  800
+Asia,Japan,Wine,Production,2014,1000 hl,  850
+Asia,Japan,Wine,Production,2015,1000 hl,  759
+Asia,Japan,Wine,Production,2016,1000 hl,  806
+Asia,Japan,Wine,Production,2017,1000 hl,  786
+Asia,Japan,Wine,Production,2018,1000 hl,  798
+Asia,Japan,Wine,Production,2019,1000 hl,  861
+Asia,Japan,Wine,Production,2020,1000 hl,  805
+Asia,Japan,Wine,Production,2021,1000 hl,  805
+Asia,Kazakhstan,Wine,Production,1995,1000 hl,  122
+Asia,Kazakhstan,Wine,Production,1996,1000 hl,  114
+Asia,Kazakhstan,Wine,Production,1997,1000 hl,  111
+Asia,Kazakhstan,Wine,Production,1998,1000 hl,  169
+Asia,Kazakhstan,Wine,Production,1999,1000 hl,  227
+Asia,Kazakhstan,Wine,Production,2000,1000 hl,  273
+Asia,Kazakhstan,Wine,Production,2001,1000 hl,  129
+Asia,Kazakhstan,Wine,Production,2002,1000 hl,  236
+Asia,Kazakhstan,Wine,Production,2003,1000 hl,  217
+Asia,Kazakhstan,Wine,Production,2004,1000 hl,  181
+Asia,Kazakhstan,Wine,Production,2005,1000 hl,  247
+Asia,Kazakhstan,Wine,Production,2006,1000 hl,  196
+Asia,Kazakhstan,Wine,Production,2007,1000 hl,  112
+Asia,Kazakhstan,Wine,Production,2008,1000 hl,  133
+Asia,Kazakhstan,Wine,Production,2009,1000 hl,  172
+Asia,Kazakhstan,Wine,Production,2010,1000 hl,  172
+Asia,Kazakhstan,Wine,Production,2011,1000 hl,  158
+Asia,Kazakhstan,Wine,Production,2012,1000 hl,  155
+Asia,Kazakhstan,Wine,Production,2013,1000 hl,  209
+Asia,Kazakhstan,Wine,Production,2014,1000 hl,  220
+Asia,Kazakhstan,Wine,Production,2015,1000 hl,  242
+Asia,Kazakhstan,Wine,Production,2016,1000 hl,  299
+Asia,Kazakhstan,Wine,Production,2017,1000 hl,  327
+Asia,Kazakhstan,Wine,Production,2018,1000 hl,  501
+Asia,Kazakhstan,Wine,Production,2019,1000 hl,  445
+Asia,Kazakhstan,Wine,Production,2020,1000 hl,  438
+Asia,Kazakhstan,Wine,Production,2021,1000 hl,  233
+Asia,Korea (the Republic of),Wine,Production,2010,1000 hl,0
+Asia,Korea (the Republic of),Wine,Production,2011,1000 hl,0
+Asia,Korea (the Republic of),Wine,Production,2012,1000 hl,0
+Asia,Korea (the Republic of),Wine,Production,2013,1000 hl,0
+Asia,Korea (the Republic of),Wine,Production,2014,1000 hl,0
+Asia,Korea (the Republic of),Wine,Production,2015,1000 hl,0
+Asia,Korea (the Republic of),Wine,Production,2016,1000 hl,0
+Asia,Korea (the Republic of),Wine,Production,2017,1000 hl,0
+Asia,Korea (the Republic of),Wine,Production,2018,1000 hl,0
+Asia,Korea (the Republic of),Wine,Production,2019,1000 hl,0
+Asia,Korea (the Republic of),Wine,Production,2020,1000 hl,0
+Asia,Korea (the Republic of),Wine,Production,2021,1000 hl,0
+Asia,Korea (the Republic of),Wine,Production,2022,1000 hl,0
+Asia,Kyrgyzstan,Wine,Production,1995,1000 hl,  26
+Asia,Kyrgyzstan,Wine,Production,1996,1000 hl,  23
+Asia,Kyrgyzstan,Wine,Production,1997,1000 hl,  21
+Asia,Kyrgyzstan,Wine,Production,1998,1000 hl,  20
+Asia,Kyrgyzstan,Wine,Production,1999,1000 hl,  21
+Asia,Kyrgyzstan,Wine,Production,2000,1000 hl,  22
+Asia,Kyrgyzstan,Wine,Production,2001,1000 hl,  40
+Asia,Kyrgyzstan,Wine,Production,2002,1000 hl,  44
+Asia,Kyrgyzstan,Wine,Production,2003,1000 hl,  18
+Asia,Kyrgyzstan,Wine,Production,2004,1000 hl,  17
+Asia,Kyrgyzstan,Wine,Production,2005,1000 hl,  12
+Asia,Kyrgyzstan,Wine,Production,2006,1000 hl,  18
+Asia,Kyrgyzstan,Wine,Production,2007,1000 hl,  11
+Asia,Kyrgyzstan,Wine,Production,2008,1000 hl,  13
+Asia,Kyrgyzstan,Wine,Production,2009,1000 hl,  14
+Asia,Kyrgyzstan,Wine,Production,2010,1000 hl,  16
+Asia,Kyrgyzstan,Wine,Production,2011,1000 hl,  14
+Asia,Kyrgyzstan,Wine,Production,2012,1000 hl,  13
+Asia,Kyrgyzstan,Wine,Production,2013,1000 hl,  18
+Asia,Kyrgyzstan,Wine,Production,2014,1000 hl,  17
+Asia,Kyrgyzstan,Wine,Production,2015,1000 hl,  26
+Asia,Kyrgyzstan,Wine,Production,2016,1000 hl,  24
+Asia,Kyrgyzstan,Wine,Production,2017,1000 hl,  28
+Asia,Kyrgyzstan,Wine,Production,2018,1000 hl,  56
+Asia,Kyrgyzstan,Wine,Production,2019,1000 hl,  38
+Asia,Kyrgyzstan,Wine,Production,2020,1000 hl,  14
+Asia,Kyrgyzstan,Wine,Production,2021,1000 hl,  14
+Europe,Latvia,Wine,Production,1995,1000 hl,  47
+Europe,Latvia,Wine,Production,1996,1000 hl,  35
+Europe,Latvia,Wine,Production,1997,1000 hl,  15
+Europe,Latvia,Wine,Production,1998,1000 hl,  10
+Europe,Latvia,Wine,Production,1999,1000 hl,0
+Europe,Latvia,Wine,Production,2000,1000 hl,0
+Europe,Latvia,Wine,Production,2001,1000 hl,0
+Europe,Latvia,Wine,Production,2002,1000 hl,0
+Europe,Latvia,Wine,Production,2003,1000 hl,0
+Europe,Latvia,Wine,Production,2004,1000 hl,0
+Europe,Latvia,Wine,Production,2005,1000 hl,  75
+Europe,Latvia,Wine,Production,2006,1000 hl,  53
+Europe,Latvia,Wine,Production,2007,1000 hl,  26
+Europe,Latvia,Wine,Production,2008,1000 hl,  25
+Europe,Latvia,Wine,Production,2009,1000 hl,  18
+Europe,Latvia,Wine,Production,2010,1000 hl,  25
+Europe,Latvia,Wine,Production,2011,1000 hl,  22
+Europe,Latvia,Wine,Production,2012,1000 hl,  22
+Europe,Latvia,Wine,Production,2013,1000 hl,  22
+Europe,Latvia,Wine,Production,2014,1000 hl,  24
+Europe,Latvia,Wine,Production,2015,1000 hl,  21
+Europe,Latvia,Wine,Production,2016,1000 hl,  25
+Europe,Latvia,Wine,Production,2017,1000 hl,  32
+Europe,Latvia,Wine,Production,2018,1000 hl,  27
+Europe,Latvia,Wine,Production,2019,1000 hl,  20
+Europe,Latvia,Wine,Production,2020,1000 hl,  20
+Europe,Latvia,Wine,Production,2021,1000 hl,  20
+Asia,Lebanon,Wine,Production,1995,1000 hl,  300
+Asia,Lebanon,Wine,Production,1996,1000 hl,  158
+Asia,Lebanon,Wine,Production,1997,1000 hl,  248
+Asia,Lebanon,Wine,Production,1998,1000 hl,  186
+Asia,Lebanon,Wine,Production,1999,1000 hl,  180
+Asia,Lebanon,Wine,Production,2000,1000 hl,  170
+Asia,Lebanon,Wine,Production,2001,1000 hl,  160
+Asia,Lebanon,Wine,Production,2002,1000 hl,  150
+Asia,Lebanon,Wine,Production,2003,1000 hl,  150
+Asia,Lebanon,Wine,Production,2004,1000 hl,  150
+Asia,Lebanon,Wine,Production,2005,1000 hl,  150
+Asia,Lebanon,Wine,Production,2006,1000 hl,  130
+Asia,Lebanon,Wine,Production,2007,1000 hl,  110
+Asia,Lebanon,Wine,Production,2008,1000 hl,  90
+Asia,Lebanon,Wine,Production,2009,1000 hl,  70
+Asia,Lebanon,Wine,Production,2010,1000 hl,  65
+Asia,Lebanon,Wine,Production,2011,1000 hl,  80
+Asia,Lebanon,Wine,Production,2012,1000 hl,  90
+Asia,Lebanon,Wine,Production,2013,1000 hl,  95
+Asia,Lebanon,Wine,Production,2014,1000 hl,  91
+Asia,Lebanon,Wine,Production,2015,1000 hl,  109
+Asia,Lebanon,Wine,Production,2016,1000 hl,  100
+Asia,Lebanon,Wine,Production,2017,1000 hl,  100
+Asia,Lebanon,Wine,Production,2018,1000 hl,  100
+Asia,Lebanon,Wine,Production,2019,1000 hl,  100
+Asia,Lebanon,Wine,Production,2020,1000 hl,  100
+Asia,Lebanon,Wine,Production,2021,1000 hl,  100
+Africa,Libya,Wine,Production,2010,1000 hl,0
+Africa,Libya,Wine,Production,2011,1000 hl,0
+Africa,Libya,Wine,Production,2012,1000 hl,0
+Africa,Libya,Wine,Production,2013,1000 hl,0
+Africa,Libya,Wine,Production,2014,1000 hl,0
+Africa,Libya,Wine,Production,2015,1000 hl,0
+Africa,Libya,Wine,Production,2016,1000 hl,0
+Africa,Libya,Wine,Production,2017,1000 hl,0
+Africa,Libya,Wine,Production,2018,1000 hl,0
+Africa,Libya,Wine,Production,2019,1000 hl,0
+Africa,Libya,Wine,Production,2020,1000 hl,0
+Africa,Libya,Wine,Production,2021,1000 hl,0
+Africa,Libya,Wine,Production,2022,1000 hl,0
+Europe,Lithuania,Wine,Production,1995,1000 hl,  11
+Europe,Lithuania,Wine,Production,1996,1000 hl,  30
+Europe,Lithuania,Wine,Production,1997,1000 hl,  22
+Europe,Lithuania,Wine,Production,1998,1000 hl,  45
+Europe,Lithuania,Wine,Production,1999,1000 hl,  65
+Europe,Lithuania,Wine,Production,2000,1000 hl,  40
+Europe,Lithuania,Wine,Production,2001,1000 hl,  43
+Europe,Lithuania,Wine,Production,2002,1000 hl,  47
+Europe,Lithuania,Wine,Production,2003,1000 hl,  36
+Europe,Lithuania,Wine,Production,2004,1000 hl,  52
+Europe,Lithuania,Wine,Production,2005,1000 hl,  78
+Europe,Lithuania,Wine,Production,2006,1000 hl,  72
+Europe,Lithuania,Wine,Production,2007,1000 hl,  89
+Europe,Lithuania,Wine,Production,2008,1000 hl,  83
+Europe,Lithuania,Wine,Production,2009,1000 hl,  54
+Europe,Lithuania,Wine,Production,2010,1000 hl,  72
+Europe,Lithuania,Wine,Production,2011,1000 hl,  61
+Europe,Lithuania,Wine,Production,2012,1000 hl,  65
+Europe,Lithuania,Wine,Production,2013,1000 hl,  57
+Europe,Lithuania,Wine,Production,2014,1000 hl,  60
+Europe,Lithuania,Wine,Production,2015,1000 hl,  44
+Europe,Lithuania,Wine,Production,2016,1000 hl,  48
+Europe,Lithuania,Wine,Production,2017,1000 hl,  41
+Europe,Lithuania,Wine,Production,2018,1000 hl,  47
+Europe,Lithuania,Wine,Production,2019,1000 hl,  41
+Europe,Lithuania,Wine,Production,2020,1000 hl,  32
+Europe,Lithuania,Wine,Production,2021,1000 hl,  32
+Europe,Lithuania,Wine,Production,2022,1000 hl,  32
+Europe,Luxemburg,Wine,Production,1995,1000 hl,  150
+Europe,Luxemburg,Wine,Production,1996,1000 hl,  128
+Europe,Luxemburg,Wine,Production,1997,1000 hl,  75
+Europe,Luxemburg,Wine,Production,1998,1000 hl,  160
+Europe,Luxemburg,Wine,Production,1999,1000 hl,  184
+Europe,Luxemburg,Wine,Production,2000,1000 hl,  132
+Europe,Luxemburg,Wine,Production,2001,1000 hl,  135
+Europe,Luxemburg,Wine,Production,2002,1000 hl,  154
+Europe,Luxemburg,Wine,Production,2003,1000 hl,  123
+Europe,Luxemburg,Wine,Production,2004,1000 hl,  156
+Europe,Luxemburg,Wine,Production,2005,1000 hl,  135
+Europe,Luxemburg,Wine,Production,2006,1000 hl,  124
+Europe,Luxemburg,Wine,Production,2007,1000 hl,  142
+Europe,Luxemburg,Wine,Production,2008,1000 hl,  130
+Europe,Luxemburg,Wine,Production,2009,1000 hl,  135
+Europe,Luxemburg,Wine,Production,2010,1000 hl,  110
+Europe,Luxemburg,Wine,Production,2011,1000 hl,  132
+Europe,Luxemburg,Wine,Production,2012,1000 hl,  85
+Europe,Luxemburg,Wine,Production,2013,1000 hl,  101
+Europe,Luxemburg,Wine,Production,2014,1000 hl,  125
+Europe,Luxemburg,Wine,Production,2015,1000 hl,  111
+Europe,Luxemburg,Wine,Production,2016,1000 hl,  83
+Europe,Luxemburg,Wine,Production,2017,1000 hl,  81
+Europe,Luxemburg,Wine,Production,2018,1000 hl,  136
+Europe,Luxemburg,Wine,Production,2019,1000 hl,  76
+Europe,Luxemburg,Wine,Production,2020,1000 hl,  97
+Europe,Luxemburg,Wine,Production,2021,1000 hl,  97
+Europe,Luxemburg,Wine,Production,2022,1000 hl,  82
+Africa,Madagascar,Wine,Production,1995,1000 hl,  88
+Africa,Madagascar,Wine,Production,1996,1000 hl,  88
+Africa,Madagascar,Wine,Production,1997,1000 hl,  89
+Africa,Madagascar,Wine,Production,1998,1000 hl,  90
+Africa,Madagascar,Wine,Production,1999,1000 hl,  91
+Africa,Madagascar,Wine,Production,2000,1000 hl,  89
+Africa,Madagascar,Wine,Production,2001,1000 hl,  89
+Africa,Madagascar,Wine,Production,2002,1000 hl,  89
+Africa,Madagascar,Wine,Production,2003,1000 hl,  64
+Africa,Madagascar,Wine,Production,2004,1000 hl,  64
+Africa,Madagascar,Wine,Production,2005,1000 hl,  65
+Africa,Madagascar,Wine,Production,2006,1000 hl,  67
+Africa,Madagascar,Wine,Production,2007,1000 hl,  74
+Africa,Madagascar,Wine,Production,2008,1000 hl,  75
+Africa,Madagascar,Wine,Production,2009,1000 hl,  83
+Africa,Madagascar,Wine,Production,2010,1000 hl,  83
+Africa,Madagascar,Wine,Production,2011,1000 hl,  82
+Africa,Madagascar,Wine,Production,2012,1000 hl,  84
+Africa,Madagascar,Wine,Production,2013,1000 hl,  84
+Africa,Madagascar,Wine,Production,2014,1000 hl,  75
+Africa,Madagascar,Wine,Production,2015,1000 hl,  77
+Africa,Madagascar,Wine,Production,2016,1000 hl,  78
+Africa,Madagascar,Wine,Production,2017,1000 hl,  78
+Africa,Madagascar,Wine,Production,2018,1000 hl,  78
+Africa,Madagascar,Wine,Production,2019,1000 hl,  78
+Africa,Madagascar,Wine,Production,2020,1000 hl,  78
+Africa,Madagascar,Wine,Production,2021,1000 hl,  78
+Europe,Malta,Wine,Production,1995,1000 hl,  32
+Europe,Malta,Wine,Production,1996,1000 hl,  32
+Europe,Malta,Wine,Production,1997,1000 hl,  32
+Europe,Malta,Wine,Production,1998,1000 hl,  21
+Europe,Malta,Wine,Production,1999,1000 hl,  35
+Europe,Malta,Wine,Production,2000,1000 hl,  50
+Europe,Malta,Wine,Production,2001,1000 hl,  67
+Europe,Malta,Wine,Production,2002,1000 hl,  62
+Europe,Malta,Wine,Production,2003,1000 hl,  100
+Europe,Malta,Wine,Production,2004,1000 hl,  70
+Europe,Malta,Wine,Production,2005,1000 hl,  60
+Europe,Malta,Wine,Production,2006,1000 hl,  65
+Europe,Malta,Wine,Production,2007,1000 hl,  48
+Europe,Malta,Wine,Production,2008,1000 hl,  32
+Europe,Malta,Wine,Production,2009,1000 hl,  37
+Europe,Malta,Wine,Production,2010,1000 hl,  15
+Europe,Malta,Wine,Production,2011,1000 hl,  15
+Europe,Malta,Wine,Production,2012,1000 hl,  22
+Europe,Malta,Wine,Production,2013,1000 hl,  21
+Europe,Malta,Wine,Production,2014,1000 hl,  21
+Europe,Malta,Wine,Production,2015,1000 hl,  20
+Europe,Malta,Wine,Production,2016,1000 hl,  15
+Europe,Malta,Wine,Production,2017,1000 hl,  15
+Europe,Malta,Wine,Production,2018,1000 hl,  17
+Europe,Malta,Wine,Production,2019,1000 hl,  13
+Europe,Malta,Wine,Production,2020,1000 hl,  12
+Europe,Malta,Wine,Production,2021,1000 hl,  11
+Europe,Malta,Wine,Production,2022,1000 hl,  13
+America,Mexico,Wine,Production,1995,1000 hl, 1 466
+America,Mexico,Wine,Production,1996,1000 hl, 1 332
+America,Mexico,Wine,Production,1997,1000 hl, 1 524
+America,Mexico,Wine,Production,1998,1000 hl, 1 361
+America,Mexico,Wine,Production,1999,1000 hl, 1 443
+America,Mexico,Wine,Production,2000,1000 hl, 1 041
+America,Mexico,Wine,Production,2001,1000 hl, 1 411
+America,Mexico,Wine,Production,2002,1000 hl, 1 012
+America,Mexico,Wine,Production,2003,1000 hl, 1 096
+America,Mexico,Wine,Production,2004,1000 hl,  730
+America,Mexico,Wine,Production,2005,1000 hl,  415
+America,Mexico,Wine,Production,2006,1000 hl,  568
+America,Mexico,Wine,Production,2007,1000 hl,  630
+America,Mexico,Wine,Production,2008,1000 hl,  557
+America,Mexico,Wine,Production,2009,1000 hl,  353
+America,Mexico,Wine,Production,2010,1000 hl,  346
+America,Mexico,Wine,Production,2011,1000 hl,  385
+America,Mexico,Wine,Production,2012,1000 hl,  394
+America,Mexico,Wine,Production,2013,1000 hl,  418
+America,Mexico,Wine,Production,2014,1000 hl,  397
+America,Mexico,Wine,Production,2015,1000 hl,  425
+America,Mexico,Wine,Production,2016,1000 hl,  404
+America,Mexico,Wine,Production,2017,1000 hl,  387
+America,Mexico,Wine,Production,2018,1000 hl,  406
+America,Mexico,Wine,Production,2019,1000 hl,  406
+America,Mexico,Wine,Production,2020,1000 hl,  398
+America,Mexico,Wine,Production,2021,1000 hl,  396
+America,Mexico,Wine,Production,2022,1000 hl,  396
+Europe,Moldova,Wine,Production,1995,1000 hl, 2 964
+Europe,Moldova,Wine,Production,1996,1000 hl, 2 291
+Europe,Moldova,Wine,Production,1997,1000 hl, 3 123
+Europe,Moldova,Wine,Production,1998,1000 hl, 1 511
+Europe,Moldova,Wine,Production,1999,1000 hl, 1 332
+Europe,Moldova,Wine,Production,2000,1000 hl, 1 112
+Europe,Moldova,Wine,Production,2001,1000 hl, 1 604
+Europe,Moldova,Wine,Production,2002,1000 hl, 2 251
+Europe,Moldova,Wine,Production,2003,1000 hl, 3 215
+Europe,Moldova,Wine,Production,2004,1000 hl, 3 026
+Europe,Moldova,Wine,Production,2005,1000 hl, 2 520
+Europe,Moldova,Wine,Production,2006,1000 hl, 1 938
+Europe,Moldova,Wine,Production,2007,1000 hl, 1 510
+Europe,Moldova,Wine,Production,2008,1000 hl, 1 710
+Europe,Moldova,Wine,Production,2009,1000 hl, 1 590
+Europe,Moldova,Wine,Production,2010,1000 hl,  840
+Europe,Moldova,Wine,Production,2011,1000 hl, 1 520
+Europe,Moldova,Wine,Production,2012,1000 hl, 1 470
+Europe,Moldova,Wine,Production,2013,1000 hl, 2 570
+Europe,Moldova,Wine,Production,2014,1000 hl, 1 630
+Europe,Moldova,Wine,Production,2015,1000 hl, 1 560
+Europe,Moldova,Wine,Production,2016,1000 hl, 1 495
+Europe,Moldova,Wine,Production,2017,1000 hl, 1 801
+Europe,Moldova,Wine,Production,2018,1000 hl, 1 900
+Europe,Moldova,Wine,Production,2019,1000 hl, 1 460
+Europe,Moldova,Wine,Production,2020,1000 hl,  920
+Europe,Moldova,Wine,Production,2021,1000 hl, 1 430
+Europe,Moldova,Wine,Production,2022,1000 hl, 1 400
+Europe,Montenegro,Wine,Production,2006,1000 hl,  166
+Europe,Montenegro,Wine,Production,2007,1000 hl,  130
+Europe,Montenegro,Wine,Production,2008,1000 hl,  170
+Europe,Montenegro,Wine,Production,2009,1000 hl,  171
+Europe,Montenegro,Wine,Production,2010,1000 hl,  180
+Europe,Montenegro,Wine,Production,2011,1000 hl,  118
+Europe,Montenegro,Wine,Production,2012,1000 hl,  174
+Europe,Montenegro,Wine,Production,2013,1000 hl,  160
+Europe,Montenegro,Wine,Production,2014,1000 hl,  97
+Europe,Montenegro,Wine,Production,2015,1000 hl,  113
+Europe,Montenegro,Wine,Production,2016,1000 hl,  101
+Europe,Montenegro,Wine,Production,2017,1000 hl,  110
+Europe,Montenegro,Wine,Production,2018,1000 hl,  88
+Europe,Montenegro,Wine,Production,2019,1000 hl,  102
+Europe,Montenegro,Wine,Production,2020,1000 hl,  70
+Europe,Montenegro,Wine,Production,2021,1000 hl,  70
+Africa,Morocco,Wine,Production,1995,1000 hl,  173
+Africa,Morocco,Wine,Production,1996,1000 hl,  284
+Africa,Morocco,Wine,Production,1997,1000 hl,  376
+Africa,Morocco,Wine,Production,1998,1000 hl,  298
+Africa,Morocco,Wine,Production,1999,1000 hl,  493
+Africa,Morocco,Wine,Production,2000,1000 hl,  299
+Africa,Morocco,Wine,Production,2001,1000 hl,  286
+Africa,Morocco,Wine,Production,2002,1000 hl,  342
+Africa,Morocco,Wine,Production,2003,1000 hl,  343
+Africa,Morocco,Wine,Production,2004,1000 hl,  326
+Africa,Morocco,Wine,Production,2005,1000 hl,  375
+Africa,Morocco,Wine,Production,2006,1000 hl,  419
+Africa,Morocco,Wine,Production,2007,1000 hl,  370
+Africa,Morocco,Wine,Production,2008,1000 hl,  350
+Africa,Morocco,Wine,Production,2009,1000 hl,  295
+Africa,Morocco,Wine,Production,2010,1000 hl,  337
+Africa,Morocco,Wine,Production,2011,1000 hl,  340
+Africa,Morocco,Wine,Production,2012,1000 hl,  345
+Africa,Morocco,Wine,Production,2013,1000 hl,  370
+Africa,Morocco,Wine,Production,2014,1000 hl,  327
+Africa,Morocco,Wine,Production,2015,1000 hl,  386
+Africa,Morocco,Wine,Production,2016,1000 hl,  325
+Africa,Morocco,Wine,Production,2017,1000 hl,  344
+Africa,Morocco,Wine,Production,2018,1000 hl,  408
+Africa,Morocco,Wine,Production,2019,1000 hl,  474
+Africa,Morocco,Wine,Production,2020,1000 hl,  409
+Africa,Morocco,Wine,Production,2021,1000 hl,  409
+Africa,Namibia,Wine,Production,2010,1000 hl,0
+Africa,Namibia,Wine,Production,2011,1000 hl,0
+Africa,Namibia,Wine,Production,2012,1000 hl,0
+Africa,Namibia,Wine,Production,2013,1000 hl,0
+Africa,Namibia,Wine,Production,2014,1000 hl,0
+Africa,Namibia,Wine,Production,2015,1000 hl,0
+Africa,Namibia,Wine,Production,2016,1000 hl,0
+Africa,Namibia,Wine,Production,2017,1000 hl,0
+Africa,Namibia,Wine,Production,2018,1000 hl,0
+Africa,Namibia,Wine,Production,2019,1000 hl,0
+Africa,Namibia,Wine,Production,2020,1000 hl,0
+Africa,Namibia,Wine,Production,2021,1000 hl,0
+Africa,Namibia,Wine,Production,2022,1000 hl,0
+Europe,Netherlands,Wine,Production,2010,1000 hl,  1
+Europe,Netherlands,Wine,Production,2011,1000 hl,  1
+Europe,Netherlands,Wine,Production,2012,1000 hl,  1
+Europe,Netherlands,Wine,Production,2013,1000 hl,  8
+Europe,Netherlands,Wine,Production,2014,1000 hl,  7
+Europe,Netherlands,Wine,Production,2015,1000 hl,  8
+Europe,Netherlands,Wine,Production,2016,1000 hl,  8
+Europe,Netherlands,Wine,Production,2017,1000 hl,  6
+Europe,Netherlands,Wine,Production,2018,1000 hl,  6
+Europe,Netherlands,Wine,Production,2019,1000 hl,  8
+Europe,Netherlands,Wine,Production,2020,1000 hl,  8
+Europe,Netherlands,Wine,Production,2021,1000 hl,  8
+Europe,Netherlands,Wine,Production,2022,1000 hl,  10
+Oceania,New Zealand,Wine,Production,1995,1000 hl,  564
+Oceania,New Zealand,Wine,Production,1996,1000 hl,  573
+Oceania,New Zealand,Wine,Production,1997,1000 hl,  458
+Oceania,New Zealand,Wine,Production,1998,1000 hl,  606
+Oceania,New Zealand,Wine,Production,1999,1000 hl,  602
+Oceania,New Zealand,Wine,Production,2000,1000 hl,  601
+Oceania,New Zealand,Wine,Production,2001,1000 hl,  533
+Oceania,New Zealand,Wine,Production,2002,1000 hl,  890
+Oceania,New Zealand,Wine,Production,2003,1000 hl,  550
+Oceania,New Zealand,Wine,Production,2004,1000 hl, 1 192
+Oceania,New Zealand,Wine,Production,2005,1000 hl, 1 020
+Oceania,New Zealand,Wine,Production,2006,1000 hl, 1 332
+Oceania,New Zealand,Wine,Production,2007,1000 hl, 1 476
+Oceania,New Zealand,Wine,Production,2008,1000 hl, 2 052
+Oceania,New Zealand,Wine,Production,2009,1000 hl, 2 050
+Oceania,New Zealand,Wine,Production,2010,1000 hl, 1 900
+Oceania,New Zealand,Wine,Production,2011,1000 hl, 2 350
+Oceania,New Zealand,Wine,Production,2012,1000 hl, 1 940
+Oceania,New Zealand,Wine,Production,2013,1000 hl, 2 484
+Oceania,New Zealand,Wine,Production,2014,1000 hl, 3 204
+Oceania,New Zealand,Wine,Production,2015,1000 hl, 2 347
+Oceania,New Zealand,Wine,Production,2016,1000 hl, 3 139
+Oceania,New Zealand,Wine,Production,2017,1000 hl, 2 851
+Oceania,New Zealand,Wine,Production,2018,1000 hl, 3 017
+Oceania,New Zealand,Wine,Production,2019,1000 hl, 2 974
+Oceania,New Zealand,Wine,Production,2020,1000 hl, 3 290
+Oceania,New Zealand,Wine,Production,2021,1000 hl, 2 664
+Oceania,New Zealand,Wine,Production,2022,1000 hl, 3 830
+Oceania,New Zealand,Wine,Production,2023,1000 hl, 2 980
+America,Panama,Wine,Production,1995,1000 hl,  2
+America,Panama,Wine,Production,1996,1000 hl,  2
+America,Panama,Wine,Production,1997,1000 hl,  2
+America,Panama,Wine,Production,1998,1000 hl,  2
+America,Panama,Wine,Production,1999,1000 hl,  2
+America,Panama,Wine,Production,2000,1000 hl,  1
+America,Panama,Wine,Production,2001,1000 hl,  1
+America,Panama,Wine,Production,2002,1000 hl,  1
+America,Panama,Wine,Production,2003,1000 hl,  1
+America,Panama,Wine,Production,2004,1000 hl,  1
+America,Panama,Wine,Production,2005,1000 hl,  1
+America,Panama,Wine,Production,2006,1000 hl,  1
+America,Panama,Wine,Production,2007,1000 hl,  1
+America,Panama,Wine,Production,2008,1000 hl,  1
+America,Panama,Wine,Production,2009,1000 hl,  1
+America,Panama,Wine,Production,2010,1000 hl,  2
+America,Panama,Wine,Production,2011,1000 hl,  1
+America,Panama,Wine,Production,2012,1000 hl,  1
+America,Panama,Wine,Production,2013,1000 hl,  1
+America,Panama,Wine,Production,2014,1000 hl,  2
+America,Panama,Wine,Production,2015,1000 hl,  1
+America,Panama,Wine,Production,2016,1000 hl,  1
+America,Panama,Wine,Production,2017,1000 hl,  1
+America,Panama,Wine,Production,2018,1000 hl,  1
+America,Panama,Wine,Production,2019,1000 hl,  1
+America,Panama,Wine,Production,2020,1000 hl,  1
+America,Panama,Wine,Production,2021,1000 hl,  1
+America,Paraguay,Wine,Production,1995,1000 hl,  77
+America,Paraguay,Wine,Production,1996,1000 hl,  80
+America,Paraguay,Wine,Production,1997,1000 hl,  80
+America,Paraguay,Wine,Production,1998,1000 hl,  80
+America,Paraguay,Wine,Production,1999,1000 hl,  74
+America,Paraguay,Wine,Production,2000,1000 hl,  56
+America,Paraguay,Wine,Production,2001,1000 hl,  60
+America,Paraguay,Wine,Production,2002,1000 hl,  60
+America,Paraguay,Wine,Production,2003,1000 hl,  60
+America,Paraguay,Wine,Production,2004,1000 hl,  60
+America,Paraguay,Wine,Production,2005,1000 hl,  16
+America,Paraguay,Wine,Production,2006,1000 hl,  25
+America,Paraguay,Wine,Production,2007,1000 hl,  16
+America,Paraguay,Wine,Production,2008,1000 hl,  14
+America,Paraguay,Wine,Production,2009,1000 hl,  14
+America,Paraguay,Wine,Production,2010,1000 hl,  13
+America,Paraguay,Wine,Production,2011,1000 hl,  14
+America,Paraguay,Wine,Production,2012,1000 hl,  14
+America,Paraguay,Wine,Production,2013,1000 hl,  14
+America,Paraguay,Wine,Production,2014,1000 hl,  15
+America,Paraguay,Wine,Production,2015,1000 hl,  15
+America,Paraguay,Wine,Production,2016,1000 hl,  16
+America,Paraguay,Wine,Production,2017,1000 hl,  16
+America,Paraguay,Wine,Production,2018,1000 hl,  19
+America,Paraguay,Wine,Production,2019,1000 hl,  18
+America,Paraguay,Wine,Production,2020,1000 hl,  17
+America,Paraguay,Wine,Production,2021,1000 hl,  17
+America,Peru,Wine,Production,1995,1000 hl,  106
+America,Peru,Wine,Production,1996,1000 hl,  111
+America,Peru,Wine,Production,1997,1000 hl,  120
+America,Peru,Wine,Production,1998,1000 hl,  120
+America,Peru,Wine,Production,1999,1000 hl,  127
+America,Peru,Wine,Production,2000,1000 hl,  330
+America,Peru,Wine,Production,2001,1000 hl,  373
+America,Peru,Wine,Production,2002,1000 hl,  408
+America,Peru,Wine,Production,2003,1000 hl,  458
+America,Peru,Wine,Production,2004,1000 hl,  480
+America,Peru,Wine,Production,2005,1000 hl,  590
+America,Peru,Wine,Production,2006,1000 hl,  600
+America,Peru,Wine,Production,2007,1000 hl,  610
+America,Peru,Wine,Production,2008,1000 hl,  620
+America,Peru,Wine,Production,2009,1000 hl,  515
+America,Peru,Wine,Production,2010,1000 hl,  520
+America,Peru,Wine,Production,2011,1000 hl,  630
+America,Peru,Wine,Production,2012,1000 hl,  650
+America,Peru,Wine,Production,2013,1000 hl,  700
+America,Peru,Wine,Production,2014,1000 hl,  730
+America,Peru,Wine,Production,2015,1000 hl,  747
+America,Peru,Wine,Production,2016,1000 hl,  750
+America,Peru,Wine,Production,2017,1000 hl,  765
+America,Peru,Wine,Production,2018,1000 hl,  820
+America,Peru,Wine,Production,2019,1000 hl,  820
+America,Peru,Wine,Production,2020,1000 hl,  810
+America,Peru,Wine,Production,2021,1000 hl,  810
+America,Peru,Wine,Production,2022,1000 hl,  810
+Europe,Poland,Wine,Production,2010,1000 hl,0
+Europe,Poland,Wine,Production,2011,1000 hl,0
+Europe,Poland,Wine,Production,2012,1000 hl,0
+Europe,Poland,Wine,Production,2013,1000 hl,  5
+Europe,Poland,Wine,Production,2014,1000 hl,  5
+Europe,Poland,Wine,Production,2015,1000 hl,  5
+Europe,Poland,Wine,Production,2016,1000 hl,  5
+Europe,Poland,Wine,Production,2017,1000 hl,  5
+Europe,Poland,Wine,Production,2018,1000 hl,  5
+Europe,Poland,Wine,Production,2019,1000 hl,  5
+Europe,Poland,Wine,Production,2020,1000 hl,  5
+Europe,Poland,Wine,Production,2021,1000 hl,  5
+Europe,Poland,Wine,Production,2022,1000 hl,  5
+Europe,Portugal,Wine,Production,1995,1000 hl, 7 255
+Europe,Portugal,Wine,Production,1996,1000 hl, 9 712
+Europe,Portugal,Wine,Production,1997,1000 hl, 6 124
+Europe,Portugal,Wine,Production,1998,1000 hl, 3 750
+Europe,Portugal,Wine,Production,1999,1000 hl, 7 844
+Europe,Portugal,Wine,Production,2000,1000 hl, 6 710
+Europe,Portugal,Wine,Production,2001,1000 hl, 7 789
+Europe,Portugal,Wine,Production,2002,1000 hl, 6 677
+Europe,Portugal,Wine,Production,2003,1000 hl, 7 340
+Europe,Portugal,Wine,Production,2004,1000 hl, 7 481
+Europe,Portugal,Wine,Production,2005,1000 hl, 7 266
+Europe,Portugal,Wine,Production,2006,1000 hl, 7 542
+Europe,Portugal,Wine,Production,2007,1000 hl, 6 073
+Europe,Portugal,Wine,Production,2008,1000 hl, 5 689
+Europe,Portugal,Wine,Production,2009,1000 hl, 5 894
+Europe,Portugal,Wine,Production,2010,1000 hl, 7 148
+Europe,Portugal,Wine,Production,2011,1000 hl, 5 622
+Europe,Portugal,Wine,Production,2012,1000 hl, 6 327
+Europe,Portugal,Wine,Production,2013,1000 hl, 6 231
+Europe,Portugal,Wine,Production,2014,1000 hl, 6 206
+Europe,Portugal,Wine,Production,2015,1000 hl, 7 048
+Europe,Portugal,Wine,Production,2016,1000 hl, 6 010
+Europe,Portugal,Wine,Production,2017,1000 hl, 6 737
+Europe,Portugal,Wine,Production,2018,1000 hl, 6 060
+Europe,Portugal,Wine,Production,2019,1000 hl, 6 527
+Europe,Portugal,Wine,Production,2020,1000 hl, 6 418
+Europe,Portugal,Wine,Production,2021,1000 hl, 7 359
+Europe,Portugal,Wine,Production,2022,1000 hl, 6 848
+Europe,Republic of North Macedonia,Wine,Production,1995,1000 hl,  911
+Europe,Republic of North Macedonia,Wine,Production,1996,1000 hl, 1 010
+Europe,Republic of North Macedonia,Wine,Production,1997,1000 hl,  958
+Europe,Republic of North Macedonia,Wine,Production,1998,1000 hl, 1 227
+Europe,Republic of North Macedonia,Wine,Production,1999,1000 hl,  912
+Europe,Republic of North Macedonia,Wine,Production,2000,1000 hl,  961
+Europe,Republic of North Macedonia,Wine,Production,2001,1000 hl,  830
+Europe,Republic of North Macedonia,Wine,Production,2002,1000 hl,  447
+Europe,Republic of North Macedonia,Wine,Production,2003,1000 hl,  930
+Europe,Republic of North Macedonia,Wine,Production,2004,1000 hl, 1 058
+Europe,Republic of North Macedonia,Wine,Production,2005,1000 hl,  836
+Europe,Republic of North Macedonia,Wine,Production,2006,1000 hl,  615
+Europe,Republic of North Macedonia,Wine,Production,2007,1000 hl, 1 075
+Europe,Republic of North Macedonia,Wine,Production,2008,1000 hl,  924
+Europe,Republic of North Macedonia,Wine,Production,2009,1000 hl,  955
+Europe,Republic of North Macedonia,Wine,Production,2010,1000 hl,  772
+Europe,Republic of North Macedonia,Wine,Production,2011,1000 hl,  665
+Europe,Republic of North Macedonia,Wine,Production,2012,1000 hl,  781
+Europe,Republic of North Macedonia,Wine,Production,2013,1000 hl, 1 024
+Europe,Republic of North Macedonia,Wine,Production,2014,1000 hl,  790
+Europe,Republic of North Macedonia,Wine,Production,2015,1000 hl, 1 096
+Europe,Republic of North Macedonia,Wine,Production,2016,1000 hl, 1 053
+Europe,Republic of North Macedonia,Wine,Production,2017,1000 hl,  657
+Europe,Republic of North Macedonia,Wine,Production,2018,1000 hl, 1 026
+Europe,Republic of North Macedonia,Wine,Production,2019,1000 hl,  906
+Europe,Republic of North Macedonia,Wine,Production,2020,1000 hl,  936
+Europe,Republic of North Macedonia,Wine,Production,2021,1000 hl,  936
+Europe,Republic of North Macedonia,Wine,Production,2022,1000 hl,  936
+Asia,Republic of Türkiye,Wine,Production,1995,1000 hl,  318
+Asia,Republic of Türkiye,Wine,Production,1996,1000 hl,  363
+Asia,Republic of Türkiye,Wine,Production,1997,1000 hl,  336
+Asia,Republic of Türkiye,Wine,Production,1998,1000 hl,  345
+Asia,Republic of Türkiye,Wine,Production,1999,1000 hl,  264
+Asia,Republic of Türkiye,Wine,Production,2000,1000 hl,  248
+Asia,Republic of Türkiye,Wine,Production,2001,1000 hl,  268
+Asia,Republic of Türkiye,Wine,Production,2002,1000 hl,  262
+Asia,Republic of Türkiye,Wine,Production,2003,1000 hl,  225
+Asia,Republic of Türkiye,Wine,Production,2004,1000 hl,  309
+Asia,Republic of Türkiye,Wine,Production,2005,1000 hl,  287
+Asia,Republic of Türkiye,Wine,Production,2006,1000 hl,  253
+Asia,Republic of Türkiye,Wine,Production,2007,1000 hl,  244
+Asia,Republic of Türkiye,Wine,Production,2008,1000 hl,  393
+Asia,Republic of Türkiye,Wine,Production,2009,1000 hl,  476
+Asia,Republic of Türkiye,Wine,Production,2010,1000 hl,  601
+Asia,Republic of Türkiye,Wine,Production,2011,1000 hl,  571
+Asia,Republic of Türkiye,Wine,Production,2012,1000 hl,  546
+Asia,Republic of Türkiye,Wine,Production,2013,1000 hl,  604
+Asia,Republic of Türkiye,Wine,Production,2014,1000 hl,  604
+Asia,Republic of Türkiye,Wine,Production,2015,1000 hl,  617
+Asia,Republic of Türkiye,Wine,Production,2016,1000 hl,  496
+Asia,Republic of Türkiye,Wine,Production,2017,1000 hl,  644
+Asia,Republic of Türkiye,Wine,Production,2018,1000 hl,  754
+Asia,Republic of Türkiye,Wine,Production,2019,1000 hl,  725
+Asia,Republic of Türkiye,Wine,Production,2020,1000 hl,  622
+Asia,Republic of Türkiye,Wine,Production,2021,1000 hl,  622
+Asia,Republic of Türkiye,Wine,Production,2022,1000 hl,  622
+Europe,Romania,Wine,Production,1995,1000 hl, 6 720
+Europe,Romania,Wine,Production,1996,1000 hl, 7 663
+Europe,Romania,Wine,Production,1997,1000 hl, 6 688
+Europe,Romania,Wine,Production,1998,1000 hl, 5 002
+Europe,Romania,Wine,Production,1999,1000 hl, 6 054
+Europe,Romania,Wine,Production,2000,1000 hl, 5 456
+Europe,Romania,Wine,Production,2001,1000 hl, 5 090
+Europe,Romania,Wine,Production,2002,1000 hl, 5 461
+Europe,Romania,Wine,Production,2003,1000 hl, 5 555
+Europe,Romania,Wine,Production,2004,1000 hl, 6 166
+Europe,Romania,Wine,Production,2005,1000 hl, 2 602
+Europe,Romania,Wine,Production,2006,1000 hl, 5 014
+Europe,Romania,Wine,Production,2007,1000 hl, 5 289
+Europe,Romania,Wine,Production,2008,1000 hl, 5 159
+Europe,Romania,Wine,Production,2009,1000 hl, 6 703
+Europe,Romania,Wine,Production,2010,1000 hl, 3 287
+Europe,Romania,Wine,Production,2011,1000 hl, 4 058
+Europe,Romania,Wine,Production,2012,1000 hl, 3 311
+Europe,Romania,Wine,Production,2013,1000 hl, 5 113
+Europe,Romania,Wine,Production,2014,1000 hl, 3 750
+Europe,Romania,Wine,Production,2015,1000 hl, 3 628
+Europe,Romania,Wine,Production,2016,1000 hl, 3 267
+Europe,Romania,Wine,Production,2017,1000 hl, 4 317
+Europe,Romania,Wine,Production,2018,1000 hl, 5 088
+Europe,Romania,Wine,Production,2019,1000 hl, 3 808
+Europe,Romania,Wine,Production,2020,1000 hl, 3 829
+Europe,Romania,Wine,Production,2021,1000 hl, 4 451
+Europe,Romania,Wine,Production,2022,1000 hl, 3 788
+Europe,Russia,Wine,Production,1995,1000 hl, 2 150
+Europe,Russia,Wine,Production,1996,1000 hl, 2 550
+Europe,Russia,Wine,Production,1997,1000 hl, 2 230
+Europe,Russia,Wine,Production,1998,1000 hl, 2 169
+Europe,Russia,Wine,Production,1999,1000 hl, 2 560
+Europe,Russia,Wine,Production,2000,1000 hl, 3 050
+Europe,Russia,Wine,Production,2001,1000 hl, 3 430
+Europe,Russia,Wine,Production,2002,1000 hl, 4 060
+Europe,Russia,Wine,Production,2003,1000 hl, 4 530
+Europe,Russia,Wine,Production,2004,1000 hl, 5 120
+Europe,Russia,Wine,Production,2005,1000 hl, 4 590
+Europe,Russia,Wine,Production,2006,1000 hl, 6 280
+Europe,Russia,Wine,Production,2007,1000 hl, 7 280
+Europe,Russia,Wine,Production,2008,1000 hl, 7 110
+Europe,Russia,Wine,Production,2009,1000 hl, 3 911
+Europe,Russia,Wine,Production,2010,1000 hl, 6 756
+Europe,Russia,Wine,Production,2011,1000 hl, 6 242
+Europe,Russia,Wine,Production,2012,1000 hl, 5 724
+Europe,Russia,Wine,Production,2013,1000 hl, 5 065
+Europe,Russia,Wine,Production,2014,1000 hl, 4 712
+Europe,Russia,Wine,Production,2015,1000 hl, 5 603
+Europe,Russia,Wine,Production,2016,1000 hl, 5 173
+Europe,Russia,Wine,Production,2017,1000 hl, 4 481
+Europe,Russia,Wine,Production,2018,1000 hl, 4 293
+Europe,Russia,Wine,Production,2019,1000 hl, 4 620
+Europe,Russia,Wine,Production,2020,1000 hl, 4 433
+Europe,Russia,Wine,Production,2021,1000 hl, 4 522
+Europe,Russia,Wine,Production,2022,1000 hl, 4 700
+Europe,Serbia,Wine,Production,2006,1000 hl, 1 292
+Europe,Serbia,Wine,Production,2007,1000 hl, 1 670
+Europe,Serbia,Wine,Production,2008,1000 hl, 1 929
+Europe,Serbia,Wine,Production,2009,1000 hl, 2 392
+Europe,Serbia,Wine,Production,2010,1000 hl, 1 200
+Europe,Serbia,Wine,Production,2011,1000 hl, 1 949
+Europe,Serbia,Wine,Production,2012,1000 hl, 1 581
+Europe,Serbia,Wine,Production,2013,1000 hl, 1 200
+Europe,Serbia,Wine,Production,2014,1000 hl,  734
+Europe,Serbia,Wine,Production,2015,1000 hl,  758
+Europe,Serbia,Wine,Production,2016,1000 hl,  648
+Europe,Serbia,Wine,Production,2017,1000 hl,  736
+Europe,Serbia,Wine,Production,2018,1000 hl,  665
+Europe,Serbia,Wine,Production,2019,1000 hl,  705
+Europe,Serbia,Wine,Production,2020,1000 hl,  705
+Europe,Serbia,Wine,Production,2021,1000 hl,  705
+Europe,Slovakia,Wine,Production,1995,1000 hl,  662
+Europe,Slovakia,Wine,Production,1996,1000 hl,  376
+Europe,Slovakia,Wine,Production,1997,1000 hl,  586
+Europe,Slovakia,Wine,Production,1998,1000 hl,  490
+Europe,Slovakia,Wine,Production,1999,1000 hl,  497
+Europe,Slovakia,Wine,Production,2000,1000 hl,  489
+Europe,Slovakia,Wine,Production,2001,1000 hl,  480
+Europe,Slovakia,Wine,Production,2002,1000 hl,  332
+Europe,Slovakia,Wine,Production,2003,1000 hl,  431
+Europe,Slovakia,Wine,Production,2004,1000 hl,  364
+Europe,Slovakia,Wine,Production,2005,1000 hl,  292
+Europe,Slovakia,Wine,Production,2006,1000 hl,  400
+Europe,Slovakia,Wine,Production,2007,1000 hl,  340
+Europe,Slovakia,Wine,Production,2008,1000 hl,  415
+Europe,Slovakia,Wine,Production,2009,1000 hl,  330
+Europe,Slovakia,Wine,Production,2010,1000 hl,  190
+Europe,Slovakia,Wine,Production,2011,1000 hl,  343
+Europe,Slovakia,Wine,Production,2012,1000 hl,  310
+Europe,Slovakia,Wine,Production,2013,1000 hl,  318
+Europe,Slovakia,Wine,Production,2014,1000 hl,  258
+Europe,Slovakia,Wine,Production,2015,1000 hl,  340
+Europe,Slovakia,Wine,Production,2016,1000 hl,  309
+Europe,Slovakia,Wine,Production,2017,1000 hl,  298
+Europe,Slovakia,Wine,Production,2018,1000 hl,  381
+Europe,Slovakia,Wine,Production,2019,1000 hl,  319
+Europe,Slovakia,Wine,Production,2020,1000 hl,  353
+Europe,Slovakia,Wine,Production,2021,1000 hl,  346
+Europe,Slovakia,Wine,Production,2022,1000 hl,  332
+Europe,Slovenia,Wine,Production,1995,1000 hl,  781
+Europe,Slovenia,Wine,Production,1996,1000 hl,  539
+Europe,Slovenia,Wine,Production,1997,1000 hl,  580
+Europe,Slovenia,Wine,Production,1998,1000 hl,  484
+Europe,Slovenia,Wine,Production,1999,1000 hl,  367
+Europe,Slovenia,Wine,Production,2000,1000 hl,  412
+Europe,Slovenia,Wine,Production,2001,1000 hl,  645
+Europe,Slovenia,Wine,Production,2002,1000 hl,  540
+Europe,Slovenia,Wine,Production,2003,1000 hl,  671
+Europe,Slovenia,Wine,Production,2004,1000 hl,  506
+Europe,Slovenia,Wine,Production,2005,1000 hl,  634
+Europe,Slovenia,Wine,Production,2006,1000 hl,  527
+Europe,Slovenia,Wine,Production,2007,1000 hl,  664
+Europe,Slovenia,Wine,Production,2008,1000 hl,  555
+Europe,Slovenia,Wine,Production,2009,1000 hl,  592
+Europe,Slovenia,Wine,Production,2010,1000 hl,  570
+Europe,Slovenia,Wine,Production,2011,1000 hl,  638
+Europe,Slovenia,Wine,Production,2012,1000 hl,  484
+Europe,Slovenia,Wine,Production,2013,1000 hl,  526
+Europe,Slovenia,Wine,Production,2014,1000 hl,  494
+Europe,Slovenia,Wine,Production,2015,1000 hl,  617
+Europe,Slovenia,Wine,Production,2016,1000 hl,  739
+Europe,Slovenia,Wine,Production,2017,1000 hl,  630
+Europe,Slovenia,Wine,Production,2018,1000 hl,  889
+Europe,Slovenia,Wine,Production,2019,1000 hl,  758
+Europe,Slovenia,Wine,Production,2020,1000 hl,  743
+Europe,Slovenia,Wine,Production,2021,1000 hl,  581
+Europe,Slovenia,Wine,Production,2022,1000 hl,  546
+Africa,South Africa,Wine,Production,1995,1000 hl, 8 339
+Africa,South Africa,Wine,Production,1996,1000 hl, 8 451
+Africa,South Africa,Wine,Production,1997,1000 hl, 8 115
+Africa,South Africa,Wine,Production,1998,1000 hl, 7 703
+Africa,South Africa,Wine,Production,1999,1000 hl, 7 968
+Africa,South Africa,Wine,Production,2000,1000 hl, 6 949
+Africa,South Africa,Wine,Production,2001,1000 hl, 6 471
+Africa,South Africa,Wine,Production,2002,1000 hl, 7 189
+Africa,South Africa,Wine,Production,2003,1000 hl, 8 853
+Africa,South Africa,Wine,Production,2004,1000 hl, 9 279
+Africa,South Africa,Wine,Production,2005,1000 hl, 8 406
+Africa,South Africa,Wine,Production,2006,1000 hl, 9 398
+Africa,South Africa,Wine,Production,2007,1000 hl, 9 783
+Africa,South Africa,Wine,Production,2008,1000 hl, 10 165
+Africa,South Africa,Wine,Production,2009,1000 hl, 9 986
+Africa,South Africa,Wine,Production,2010,1000 hl, 9 327
+Africa,South Africa,Wine,Production,2011,1000 hl, 9 725
+Africa,South Africa,Wine,Production,2012,1000 hl, 10 569
+Africa,South Africa,Wine,Production,2013,1000 hl, 10 982
+Africa,South Africa,Wine,Production,2014,1000 hl, 11 460
+Africa,South Africa,Wine,Production,2015,1000 hl, 11 231
+Africa,South Africa,Wine,Production,2016,1000 hl, 10 531
+Africa,South Africa,Wine,Production,2017,1000 hl, 10 820
+Africa,South Africa,Wine,Production,2018,1000 hl, 9 503
+Africa,South Africa,Wine,Production,2019,1000 hl, 9 705
+Africa,South Africa,Wine,Production,2020,1000 hl, 10 385
+Africa,South Africa,Wine,Production,2021,1000 hl, 10 826
+Africa,South Africa,Wine,Production,2022,1000 hl, 10 337
+Africa,South Africa,Wine,Production,2023,1000 hl, 9 717
+Europe,Spain,Wine,Production,1995,1000 hl, 20 876
+Europe,Spain,Wine,Production,1996,1000 hl, 31 000
+Europe,Spain,Wine,Production,1997,1000 hl, 33 218
+Europe,Spain,Wine,Production,1998,1000 hl, 31 175
+Europe,Spain,Wine,Production,1999,1000 hl, 33 723
+Europe,Spain,Wine,Production,2000,1000 hl, 41 692
+Europe,Spain,Wine,Production,2001,1000 hl, 30 500
+Europe,Spain,Wine,Production,2002,1000 hl, 33 478
+Europe,Spain,Wine,Production,2003,1000 hl, 41 843
+Europe,Spain,Wine,Production,2004,1000 hl, 42 988
+Europe,Spain,Wine,Production,2005,1000 hl, 36 158
+Europe,Spain,Wine,Production,2006,1000 hl, 38 273
+Europe,Spain,Wine,Production,2007,1000 hl, 36 408
+Europe,Spain,Wine,Production,2008,1000 hl, 35 913
+Europe,Spain,Wine,Production,2009,1000 hl, 36 093
+Europe,Spain,Wine,Production,2010,1000 hl, 35 353
+Europe,Spain,Wine,Production,2011,1000 hl, 33 397
+Europe,Spain,Wine,Production,2012,1000 hl, 31 123
+Europe,Spain,Wine,Production,2013,1000 hl, 45 308
+Europe,Spain,Wine,Production,2014,1000 hl, 39 494
+Europe,Spain,Wine,Production,2015,1000 hl, 37 703
+Europe,Spain,Wine,Production,2016,1000 hl, 39 970
+Europe,Spain,Wine,Production,2017,1000 hl, 32 480
+Europe,Spain,Wine,Production,2018,1000 hl, 44 933
+Europe,Spain,Wine,Production,2019,1000 hl, 33 676
+Europe,Spain,Wine,Production,2020,1000 hl, 40 949
+Europe,Spain,Wine,Production,2021,1000 hl, 35 471
+Europe,Spain,Wine,Production,2022,1000 hl, 35 703
+Europe,Sweden,Wine,Production,2013,1000 hl,0
+Europe,Sweden,Wine,Production,2014,1000 hl,0
+Europe,Sweden,Wine,Production,2015,1000 hl,0
+Europe,Sweden,Wine,Production,2016,1000 hl,0
+Europe,Sweden,Wine,Production,2017,1000 hl,0
+Europe,Sweden,Wine,Production,2018,1000 hl,0
+Europe,Sweden,Wine,Production,2019,1000 hl,0
+Europe,Sweden,Wine,Production,2020,1000 hl,0
+Europe,Sweden,Wine,Production,2021,1000 hl,0
+Europe,Sweden,Wine,Production,2022,1000 hl,0
+Europe,Switzerland,Wine,Production,1995,1000 hl, 1 181
+Europe,Switzerland,Wine,Production,1996,1000 hl, 1 304
+Europe,Switzerland,Wine,Production,1997,1000 hl, 1 045
+Europe,Switzerland,Wine,Production,1998,1000 hl, 1 172
+Europe,Switzerland,Wine,Production,1999,1000 hl, 1 312
+Europe,Switzerland,Wine,Production,2000,1000 hl, 1 276
+Europe,Switzerland,Wine,Production,2001,1000 hl, 1 173
+Europe,Switzerland,Wine,Production,2002,1000 hl, 1 112
+Europe,Switzerland,Wine,Production,2003,1000 hl,  967
+Europe,Switzerland,Wine,Production,2004,1000 hl, 1 159
+Europe,Switzerland,Wine,Production,2005,1000 hl, 1 001
+Europe,Switzerland,Wine,Production,2006,1000 hl, 1 011
+Europe,Switzerland,Wine,Production,2007,1000 hl, 1 039
+Europe,Switzerland,Wine,Production,2008,1000 hl, 1 072
+Europe,Switzerland,Wine,Production,2009,1000 hl, 1 112
+Europe,Switzerland,Wine,Production,2010,1000 hl, 1 030
+Europe,Switzerland,Wine,Production,2011,1000 hl, 1 119
+Europe,Switzerland,Wine,Production,2012,1000 hl, 1 004
+Europe,Switzerland,Wine,Production,2013,1000 hl,  839
+Europe,Switzerland,Wine,Production,2014,1000 hl,  934
+Europe,Switzerland,Wine,Production,2015,1000 hl,  850
+Europe,Switzerland,Wine,Production,2016,1000 hl, 1 077
+Europe,Switzerland,Wine,Production,2017,1000 hl,  792
+Europe,Switzerland,Wine,Production,2018,1000 hl, 1 112
+Europe,Switzerland,Wine,Production,2019,1000 hl,  979
+Europe,Switzerland,Wine,Production,2020,1000 hl,  834
+Europe,Switzerland,Wine,Production,2021,1000 hl,  609
+Europe,Switzerland,Wine,Production,2022,1000 hl,  992
+Asia,Syrian Arab Republic,Wine,Production,1995,1000 hl,  2
+Asia,Syrian Arab Republic,Wine,Production,1996,1000 hl,  3
+Asia,Syrian Arab Republic,Wine,Production,1997,1000 hl,  3
+Asia,Syrian Arab Republic,Wine,Production,1998,1000 hl,  2
+Asia,Syrian Arab Republic,Wine,Production,1999,1000 hl,  2
+Asia,Syrian Arab Republic,Wine,Production,2000,1000 hl,  3
+Asia,Syrian Arab Republic,Wine,Production,2001,1000 hl,  3
+Asia,Syrian Arab Republic,Wine,Production,2002,1000 hl,  3
+Asia,Syrian Arab Republic,Wine,Production,2003,1000 hl,  3
+Asia,Syrian Arab Republic,Wine,Production,2004,1000 hl,  3
+Asia,Syrian Arab Republic,Wine,Production,2005,1000 hl,  2
+Asia,Syrian Arab Republic,Wine,Production,2006,1000 hl,  2
+Asia,Syrian Arab Republic,Wine,Production,2007,1000 hl,  2
+Asia,Syrian Arab Republic,Wine,Production,2008,1000 hl,  2
+Asia,Syrian Arab Republic,Wine,Production,2009,1000 hl,  2
+Asia,Syrian Arab Republic,Wine,Production,2010,1000 hl,  1
+Asia,Syrian Arab Republic,Wine,Production,2011,1000 hl,  1
+Asia,Syrian Arab Republic,Wine,Production,2012,1000 hl,  1
+Asia,Syrian Arab Republic,Wine,Production,2013,1000 hl,  1
+Asia,Syrian Arab Republic,Wine,Production,2014,1000 hl,0
+Asia,Syrian Arab Republic,Wine,Production,2015,1000 hl,  1
+Asia,Syrian Arab Republic,Wine,Production,2016,1000 hl,  1
+Asia,Syrian Arab Republic,Wine,Production,2017,1000 hl,  1
+Asia,Syrian Arab Republic,Wine,Production,2018,1000 hl,0
+Asia,Syrian Arab Republic,Wine,Production,2019,1000 hl,0
+Asia,Syrian Arab Republic,Wine,Production,2020,1000 hl,0
+Asia,Syrian Arab Republic,Wine,Production,2021,1000 hl,0
+Asia,Tajikistan,Wine,Production,1995,1000 hl,  95
+Asia,Tajikistan,Wine,Production,1996,1000 hl,  131
+Asia,Tajikistan,Wine,Production,1997,1000 hl,  82
+Asia,Tajikistan,Wine,Production,1998,1000 hl,  65
+Asia,Tajikistan,Wine,Production,1999,1000 hl,  52
+Asia,Tajikistan,Wine,Production,2000,1000 hl,  39
+Asia,Tajikistan,Wine,Production,2001,1000 hl,  56
+Asia,Tajikistan,Wine,Production,2002,1000 hl,  60
+Asia,Tajikistan,Wine,Production,2003,1000 hl,  20
+Asia,Tajikistan,Wine,Production,2004,1000 hl,  62
+Asia,Tajikistan,Wine,Production,2005,1000 hl,  50
+Asia,Tajikistan,Wine,Production,2006,1000 hl,  40
+Asia,Tajikistan,Wine,Production,2007,1000 hl,  2
+Asia,Tajikistan,Wine,Production,2008,1000 hl,  3
+Asia,Tajikistan,Wine,Production,2009,1000 hl,  3
+Asia,Tajikistan,Wine,Production,2010,1000 hl,  2
+Asia,Tajikistan,Wine,Production,2011,1000 hl,  2
+Asia,Tajikistan,Wine,Production,2012,1000 hl,  2
+Asia,Tajikistan,Wine,Production,2013,1000 hl,  2
+Asia,Tajikistan,Wine,Production,2014,1000 hl,  2
+Asia,Tajikistan,Wine,Production,2015,1000 hl,  1
+Asia,Tajikistan,Wine,Production,2016,1000 hl,  2
+Asia,Tajikistan,Wine,Production,2017,1000 hl,  2
+Asia,Tajikistan,Wine,Production,2018,1000 hl,  2
+Asia,Tajikistan,Wine,Production,2019,1000 hl,  2
+Asia,Tajikistan,Wine,Production,2020,1000 hl,  2
+Asia,Tajikistan,Wine,Production,2021,1000 hl,  2
+Africa,Tunisia,Wine,Production,1995,1000 hl,  292
+Africa,Tunisia,Wine,Production,1996,1000 hl,  221
+Africa,Tunisia,Wine,Production,1997,1000 hl,  372
+Africa,Tunisia,Wine,Production,1998,1000 hl,  352
+Africa,Tunisia,Wine,Production,1999,1000 hl,  468
+Africa,Tunisia,Wine,Production,2000,1000 hl,  397
+Africa,Tunisia,Wine,Production,2001,1000 hl,  310
+Africa,Tunisia,Wine,Production,2002,1000 hl,  264
+Africa,Tunisia,Wine,Production,2003,1000 hl,  235
+Africa,Tunisia,Wine,Production,2004,1000 hl,  358
+Africa,Tunisia,Wine,Production,2005,1000 hl,  286
+Africa,Tunisia,Wine,Production,2006,1000 hl,  347
+Africa,Tunisia,Wine,Production,2007,1000 hl,  216
+Africa,Tunisia,Wine,Production,2008,1000 hl,  291
+Africa,Tunisia,Wine,Production,2009,1000 hl,  245
+Africa,Tunisia,Wine,Production,2010,1000 hl,  222
+Africa,Tunisia,Wine,Production,2011,1000 hl,  230
+Africa,Tunisia,Wine,Production,2012,1000 hl,  284
+Africa,Tunisia,Wine,Production,2013,1000 hl,  328
+Africa,Tunisia,Wine,Production,2014,1000 hl,  320
+Africa,Tunisia,Wine,Production,2015,1000 hl,  325
+Africa,Tunisia,Wine,Production,2016,1000 hl,  305
+Africa,Tunisia,Wine,Production,2017,1000 hl,  305
+Africa,Tunisia,Wine,Production,2018,1000 hl,  320
+Africa,Tunisia,Wine,Production,2019,1000 hl,  370
+Africa,Tunisia,Wine,Production,2020,1000 hl,  350
+Africa,Tunisia,Wine,Production,2021,1000 hl,  350
+Asia,Turkmenistan,Wine,Production,1995,1000 hl,  492
+Asia,Turkmenistan,Wine,Production,1996,1000 hl,  150
+Asia,Turkmenistan,Wine,Production,1997,1000 hl,  360
+Asia,Turkmenistan,Wine,Production,1998,1000 hl,  360
+Asia,Turkmenistan,Wine,Production,1999,1000 hl,  354
+Asia,Turkmenistan,Wine,Production,2000,1000 hl,  360
+Asia,Turkmenistan,Wine,Production,2001,1000 hl,  396
+Asia,Turkmenistan,Wine,Production,2002,1000 hl,  402
+Asia,Turkmenistan,Wine,Production,2003,1000 hl,  408
+Asia,Turkmenistan,Wine,Production,2004,1000 hl,  420
+Asia,Turkmenistan,Wine,Production,2005,1000 hl,  432
+Asia,Turkmenistan,Wine,Production,2006,1000 hl,  438
+Asia,Turkmenistan,Wine,Production,2007,1000 hl,  444
+Asia,Turkmenistan,Wine,Production,2008,1000 hl,  390
+Asia,Turkmenistan,Wine,Production,2009,1000 hl,  402
+Asia,Turkmenistan,Wine,Production,2010,1000 hl,  377
+Asia,Turkmenistan,Wine,Production,2011,1000 hl,  378
+Asia,Turkmenistan,Wine,Production,2012,1000 hl,  377
+Asia,Turkmenistan,Wine,Production,2013,1000 hl,  377
+Asia,Turkmenistan,Wine,Production,2014,1000 hl,  379
+Asia,Turkmenistan,Wine,Production,2015,1000 hl,  383
+Asia,Turkmenistan,Wine,Production,2016,1000 hl,  382
+Asia,Turkmenistan,Wine,Production,2017,1000 hl,  385
+Asia,Turkmenistan,Wine,Production,2018,1000 hl,  387
+Asia,Turkmenistan,Wine,Production,2019,1000 hl,  495
+Asia,Turkmenistan,Wine,Production,2020,1000 hl,  498
+Asia,Turkmenistan,Wine,Production,2021,1000 hl,  498
+Europe,Ukraine,Wine,Production,1995,1000 hl, 1 860
+Europe,Ukraine,Wine,Production,1996,1000 hl, 1 720
+Europe,Ukraine,Wine,Production,1997,1000 hl, 1 550
+Europe,Ukraine,Wine,Production,1998,1000 hl, 1 260
+Europe,Ukraine,Wine,Production,1999,1000 hl, 1 250
+Europe,Ukraine,Wine,Production,2000,1000 hl, 1 290
+Europe,Ukraine,Wine,Production,2001,1000 hl, 1 780
+Europe,Ukraine,Wine,Production,2002,1000 hl, 2 430
+Europe,Ukraine,Wine,Production,2003,1000 hl, 2 380
+Europe,Ukraine,Wine,Production,2004,1000 hl, 2 012
+Europe,Ukraine,Wine,Production,2005,1000 hl, 2 130
+Europe,Ukraine,Wine,Production,2006,1000 hl, 2 160
+Europe,Ukraine,Wine,Production,2007,1000 hl, 2 516
+Europe,Ukraine,Wine,Production,2008,1000 hl, 2 651
+Europe,Ukraine,Wine,Production,2009,1000 hl, 3 181
+Europe,Ukraine,Wine,Production,2010,1000 hl, 3 002
+Europe,Ukraine,Wine,Production,2011,1000 hl, 3 170
+Europe,Ukraine,Wine,Production,2012,1000 hl, 2 400
+Europe,Ukraine,Wine,Production,2013,1000 hl, 2 827
+Europe,Ukraine,Wine,Production,2014,1000 hl, 1 229
+Europe,Ukraine,Wine,Production,2015,1000 hl,  920
+Europe,Ukraine,Wine,Production,2016,1000 hl, 1 242
+Europe,Ukraine,Wine,Production,2017,1000 hl, 1 039
+Europe,Ukraine,Wine,Production,2018,1000 hl, 1 010
+Europe,Ukraine,Wine,Production,2019,1000 hl,  990
+Europe,Ukraine,Wine,Production,2020,1000 hl,  660
+Europe,Ukraine,Wine,Production,2021,1000 hl,  660
+Europe,Ukraine,Wine,Production,2022,1000 hl,  660
+Europe,United Kingdom,Wine,Production,1995,1000 hl,  18
+Europe,United Kingdom,Wine,Production,1996,1000 hl,  26
+Europe,United Kingdom,Wine,Production,1997,1000 hl,  6
+Europe,United Kingdom,Wine,Production,1998,1000 hl,  12
+Europe,United Kingdom,Wine,Production,1999,1000 hl,  13
+Europe,United Kingdom,Wine,Production,2000,1000 hl,  14
+Europe,United Kingdom,Wine,Production,2001,1000 hl,  15
+Europe,United Kingdom,Wine,Production,2002,1000 hl,  10
+Europe,United Kingdom,Wine,Production,2003,1000 hl,  15
+Europe,United Kingdom,Wine,Production,2004,1000 hl,  17
+Europe,United Kingdom,Wine,Production,2005,1000 hl,  17
+Europe,United Kingdom,Wine,Production,2006,1000 hl,  20
+Europe,United Kingdom,Wine,Production,2007,1000 hl,  22
+Europe,United Kingdom,Wine,Production,2008,1000 hl,  19
+Europe,United Kingdom,Wine,Production,2009,1000 hl,  22
+Europe,United Kingdom,Wine,Production,2010,1000 hl,  28
+Europe,United Kingdom,Wine,Production,2011,1000 hl,  23
+Europe,United Kingdom,Wine,Production,2012,1000 hl,  8
+Europe,United Kingdom,Wine,Production,2013,1000 hl,  33
+Europe,United Kingdom,Wine,Production,2014,1000 hl,  47
+Europe,United Kingdom,Wine,Production,2015,1000 hl,  40
+Europe,United Kingdom,Wine,Production,2016,1000 hl,  38
+Europe,United Kingdom,Wine,Production,2017,1000 hl,  40
+Europe,United Kingdom,Wine,Production,2018,1000 hl,  98
+Europe,United Kingdom,Wine,Production,2019,1000 hl,  79
+Europe,United Kingdom,Wine,Production,2020,1000 hl,  65
+Europe,United Kingdom,Wine,Production,2021,1000 hl,  67
+Europe,United Kingdom,Wine,Production,2022,1000 hl,  91
+America,United States of America,Wine,Production,1995,1000 hl, 18 668
+America,United States of America,Wine,Production,1996,1000 hl, 18 877
+America,United States of America,Wine,Production,1997,1000 hl, 22 000
+America,United States of America,Wine,Production,1998,1000 hl, 20 504
+America,United States of America,Wine,Production,1999,1000 hl, 19 050
+America,United States of America,Wine,Production,2000,1000 hl, 21 500
+America,United States of America,Wine,Production,2001,1000 hl, 19 200
+America,United States of America,Wine,Production,2002,1000 hl, 20 300
+America,United States of America,Wine,Production,2003,1000 hl, 19 500
+America,United States of America,Wine,Production,2004,1000 hl, 20 109
+America,United States of America,Wine,Production,2005,1000 hl, 22 888
+America,United States of America,Wine,Production,2006,1000 hl, 19 440
+America,United States of America,Wine,Production,2007,1000 hl, 19 870
+America,United States of America,Wine,Production,2008,1000 hl, 19 340
+America,United States of America,Wine,Production,2009,1000 hl, 21 965
+America,United States of America,Wine,Production,2010,1000 hl, 20 887
+America,United States of America,Wine,Production,2011,1000 hl, 20 097
+America,United States of America,Wine,Production,2012,1000 hl, 22 732
+America,United States of America,Wine,Production,2013,1000 hl, 25 584
+America,United States of America,Wine,Production,2014,1000 hl, 24 253
+America,United States of America,Wine,Production,2015,1000 hl, 22 818
+America,United States of America,Wine,Production,2016,1000 hl, 24 901
+America,United States of America,Wine,Production,2017,1000 hl, 24 506
+America,United States of America,Wine,Production,2018,1000 hl, 26 074
+America,United States of America,Wine,Production,2019,1000 hl, 25 562
+America,United States of America,Wine,Production,2020,1000 hl, 22 750
+America,United States of America,Wine,Production,2021,1000 hl, 24 070
+America,United States of America,Wine,Production,2022,1000 hl, 22 385
+America,Uruguay,Wine,Production,1995,1000 hl,  852
+America,Uruguay,Wine,Production,1996,1000 hl,  963
+America,Uruguay,Wine,Production,1997,1000 hl, 1 028
+America,Uruguay,Wine,Production,1998,1000 hl, 1 050
+America,Uruguay,Wine,Production,1999,1000 hl, 1 050
+America,Uruguay,Wine,Production,2000,1000 hl,  904
+America,Uruguay,Wine,Production,2001,1000 hl,  873
+America,Uruguay,Wine,Production,2002,1000 hl,  714
+America,Uruguay,Wine,Production,2003,1000 hl,  840
+America,Uruguay,Wine,Production,2004,1000 hl, 1 126
+America,Uruguay,Wine,Production,2005,1000 hl,  876
+America,Uruguay,Wine,Production,2006,1000 hl,  939
+America,Uruguay,Wine,Production,2007,1000 hl,  884
+America,Uruguay,Wine,Production,2008,1000 hl,  796
+America,Uruguay,Wine,Production,2009,1000 hl,  620
+America,Uruguay,Wine,Production,2010,1000 hl,  769
+America,Uruguay,Wine,Production,2011,1000 hl,  901
+America,Uruguay,Wine,Production,2012,1000 hl,  962
+America,Uruguay,Wine,Production,2013,1000 hl,  667
+America,Uruguay,Wine,Production,2014,1000 hl,  670
+America,Uruguay,Wine,Production,2015,1000 hl,  658
+America,Uruguay,Wine,Production,2016,1000 hl,  755
+America,Uruguay,Wine,Production,2017,1000 hl,  763
+America,Uruguay,Wine,Production,2018,1000 hl,  745
+America,Uruguay,Wine,Production,2019,1000 hl,  604
+America,Uruguay,Wine,Production,2020,1000 hl,  695
+America,Uruguay,Wine,Production,2021,1000 hl,  749
+America,Uruguay,Wine,Production,2022,1000 hl,  756
+Asia,Uzbekistan,Wine,Production,1995,1000 hl,  830
+Asia,Uzbekistan,Wine,Production,1996,1000 hl,  550
+Asia,Uzbekistan,Wine,Production,1997,1000 hl,  650
+Asia,Uzbekistan,Wine,Production,1998,1000 hl,  620
+Asia,Uzbekistan,Wine,Production,1999,1000 hl,  590
+Asia,Uzbekistan,Wine,Production,2000,1000 hl,  410
+Asia,Uzbekistan,Wine,Production,2001,1000 hl,  435
+Asia,Uzbekistan,Wine,Production,2002,1000 hl,  336
+Asia,Uzbekistan,Wine,Production,2003,1000 hl,  458
+Asia,Uzbekistan,Wine,Production,2004,1000 hl,  350
+Asia,Uzbekistan,Wine,Production,2005,1000 hl,  241
+Asia,Uzbekistan,Wine,Production,2006,1000 hl,  231
+Asia,Uzbekistan,Wine,Production,2007,1000 hl,  250
+Asia,Uzbekistan,Wine,Production,2008,1000 hl,  245
+Asia,Uzbekistan,Wine,Production,2009,1000 hl,  211
+Asia,Uzbekistan,Wine,Production,2010,1000 hl,  213
+Asia,Uzbekistan,Wine,Production,2011,1000 hl,  361
+Asia,Uzbekistan,Wine,Production,2012,1000 hl,  375
+Asia,Uzbekistan,Wine,Production,2013,1000 hl,  358
+Asia,Uzbekistan,Wine,Production,2014,1000 hl,  253
+Asia,Uzbekistan,Wine,Production,2015,1000 hl,  345
+Asia,Uzbekistan,Wine,Production,2016,1000 hl,  272
+Asia,Uzbekistan,Wine,Production,2017,1000 hl,  256
+Asia,Uzbekistan,Wine,Production,2018,1000 hl,  229
+Asia,Uzbekistan,Wine,Production,2019,1000 hl,  216
+Asia,Uzbekistan,Wine,Production,2020,1000 hl,  218
+Asia,Uzbekistan,Wine,Production,2021,1000 hl,  218
+Asia,Vietnam,Wine,Production,2010,1000 hl,0
+Asia,Vietnam,Wine,Production,2011,1000 hl,0
+Asia,Vietnam,Wine,Production,2012,1000 hl,0
+Asia,Vietnam,Wine,Production,2013,1000 hl,0
+Asia,Vietnam,Wine,Production,2014,1000 hl,0
+Asia,Vietnam,Wine,Production,2015,1000 hl,0
+Asia,Vietnam,Wine,Production,2016,1000 hl,0
+Asia,Vietnam,Wine,Production,2017,1000 hl,0
+Asia,Vietnam,Wine,Production,2018,1000 hl,0
+Asia,Vietnam,Wine,Production,2019,1000 hl,0
+Asia,Vietnam,Wine,Production,2020,1000 hl,0
+Asia,Vietnam,Wine,Production,2021,1000 hl,0
+Asia,Vietnam,Wine,Production,2022,1000 hl,0
+Africa,Zimbabwe,Wine,Production,1995,1000 hl,  15
+Africa,Zimbabwe,Wine,Production,1996,1000 hl,  15
+Africa,Zimbabwe,Wine,Production,1997,1000 hl,  16
+Africa,Zimbabwe,Wine,Production,1998,1000 hl,  16
+Africa,Zimbabwe,Wine,Production,1999,1000 hl,  16
+Africa,Zimbabwe,Wine,Production,2000,1000 hl,  16
+Africa,Zimbabwe,Wine,Production,2001,1000 hl,  16
+Africa,Zimbabwe,Wine,Production,2002,1000 hl,  16
+Africa,Zimbabwe,Wine,Production,2003,1000 hl,  16
+Africa,Zimbabwe,Wine,Production,2004,1000 hl,  16
+Africa,Zimbabwe,Wine,Production,2005,1000 hl,  21
+Africa,Zimbabwe,Wine,Production,2006,1000 hl,  24
+Africa,Zimbabwe,Wine,Production,2007,1000 hl,  18
+Africa,Zimbabwe,Wine,Production,2008,1000 hl,  18
+Africa,Zimbabwe,Wine,Production,2009,1000 hl,  18
+Africa,Zimbabwe,Wine,Production,2010,1000 hl,  18
+Africa,Zimbabwe,Wine,Production,2011,1000 hl,  18
+Africa,Zimbabwe,Wine,Production,2012,1000 hl,  18
+Africa,Zimbabwe,Wine,Production,2013,1000 hl,  18
+Africa,Zimbabwe,Wine,Production,2014,1000 hl,  20
+Africa,Zimbabwe,Wine,Production,2015,1000 hl,  23
+Africa,Zimbabwe,Wine,Production,2016,1000 hl,  21
+Africa,Zimbabwe,Wine,Production,2017,1000 hl,  22
+Africa,Zimbabwe,Wine,Production,2018,1000 hl,  20
+Africa,Zimbabwe,Wine,Production,2019,1000 hl,  14
+Africa,Zimbabwe,Wine,Production,2020,1000 hl,  14
+Africa,Zimbabwe,Wine,Production,2021,1000 hl,  14
